@@ -1,0 +1,3502 @@
+[
+ {
+  "id": 1,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which chest radiograph border is lost in right middle lobe disease?",
+  "back": "The right heart border, by the silhouette sign. Lingular disease instead obscures the left heart border."
+ },
+ {
+  "id": 2,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What does loss of the hemidiaphragm outline localise disease to?",
+  "back": "The lower lobe, because the lower lobe abuts the diaphragm. Right middle lobe and lingular disease spare it."
+ },
+ {
+  "id": 3,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the cervicothoracic sign?",
+  "back": "A mass whose edge remains visible above the clavicle lies in the posterior mediastinum. A mass whose edge disappears at the clavicle is anterior."
+ },
+ {
+  "id": 4,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What does an air bronchogram indicate about the proximal airway?",
+  "back": "The bronchus is patent and alveoli are filled with fluid, pus, cells or blood. It argues against proximal obstructive collapse."
+ },
+ {
+  "id": 5,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the Golden S sign?",
+  "back": "Right upper lobe collapse around a central mass: the elevated concave horizontal fissure joins the convex hilar mass to form an S shape. It suggests a central obstructing carcinoma."
+ },
+ {
+  "id": 6,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the Luftsichel sign and when does it occur?",
+  "back": "A crescent of lucency beside the aortic arch in left upper lobe collapse, caused by the hyperinflated superior segment of the left lower lobe."
+ },
+ {
+  "id": 7,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "How does mediastinal shift distinguish collapse from effusion in an opaque hemithorax?",
+  "back": "Shift toward the opaque side suggests collapse, shift away suggests a large effusion, and no shift suggests consolidation or mixed disease."
+ },
+ {
+  "id": 8,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the signet ring sign?",
+  "back": "A dilated bronchus wider than its accompanying pulmonary artery on HRCT, diagnostic of bronchiectasis."
+ },
+ {
+  "id": 9,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which bronchiectasis distribution suggests cystic fibrosis or ABPA?",
+  "back": "Upper zone and central predominance. In ABPA, mucoid impaction produces finger-in-glove opacities that may be of high attenuation."
+ },
+ {
+  "id": 10,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which emphysema pattern is lower zone and linked to alpha-1 antitrypsin deficiency?",
+  "back": "Panlobular emphysema. Centrilobular emphysema is upper zone and linked to smoking."
+ },
+ {
+  "id": 11,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What CT distribution of nodules suggests sarcoidosis or lymphangitic carcinomatosis?",
+  "back": "Perilymphatic nodules along the pleura, fissures and bronchovascular bundles. Centrilobular nodules spare the pleura, and random nodules suggest haematogenous spread."
+ },
+ {
+  "id": 12,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What does a tree-in-bud pattern indicate?",
+  "back": "Endobronchial spread of infection, such as tuberculosis, non-tuberculous mycobacteria or bronchiolitis, within centrilobular small airways."
+ },
+ {
+  "id": 13,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What are the classic HRCT features of a UIP pattern?",
+  "back": "Basal, subpleural predominant reticulation with honeycombing and traction bronchiectasis, with little ground glass. In the right clinical setting biopsy is unnecessary."
+ },
+ {
+  "id": 14,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which HRCT feature separates NSIP from UIP?",
+  "back": "Basal ground glass and reticulation with subpleural sparing and minimal honeycombing. NSIP is typical of connective tissue disease."
+ },
+ {
+  "id": 15,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the Garland triad in sarcoidosis?",
+  "back": "Bilateral hilar plus right paratracheal lymphadenopathy, also called the 1-2-3 sign."
+ },
+ {
+  "id": 16,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What are the radiographic stages of sarcoidosis?",
+  "back": "Stage 0 normal, I lymphadenopathy alone, II lymphadenopathy with parenchymal disease, III parenchymal disease alone, IV fibrosis."
+ },
+ {
+  "id": 17,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which CT sign suggests organising pneumonia, and what else can cause it?",
+  "back": "The reversed halo (atoll) sign: ring of consolidation around central ground glass. It also occurs in pulmonary infarct and mucormycosis."
+ },
+ {
+  "id": 18,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Where do asbestos-related pleural plaques lie and what do they spare?",
+  "back": "Over the diaphragm and lower chest wall, often calcified, sparing the costophrenic angles and apices."
+ },
+ {
+  "id": 19,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which pneumonia shows a bulging fissure?",
+  "back": "Klebsiella pneumoniae, which also tends to cavitate and is associated with alcohol misuse."
+ },
+ {
+  "id": 20,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the radiographic pattern of Pneumocystis jirovecii pneumonia?",
+  "back": "Bilateral perihilar ground glass with relative peripheral sparing, with thin-walled cysts in about a third that predispose to pneumothorax."
+ },
+ {
+  "id": 21,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Where does post-primary tuberculosis characteristically occur?",
+  "back": "The apical and posterior segments of the upper lobes and the superior segments of the lower lobes, with cavitation and tree-in-bud spread."
+ },
+ {
+  "id": 22,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the Ranke complex?",
+  "back": "A calcified Ghon focus with a calcified ipsilateral hilar lymph node, the healed result of primary tuberculosis."
+ },
+ {
+  "id": 23,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What features separate cardiogenic pulmonary oedema from ARDS early on?",
+  "back": "Cardiogenic oedema has cardiomegaly, septal lines, upper lobe venous diversion and effusions. ARDS has a normal heart size and diffuse bilateral opacity."
+ },
+ {
+  "id": 24,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What volume of pleural fluid blunts the costophrenic angle on an erect PA film?",
+  "back": "About 200 mL, although about 50 mL blunts the posterior angle on the lateral film."
+ },
+ {
+  "id": 25,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What are Light criteria for an exudate?",
+  "back": "Pleural to serum protein above 0.5, pleural to serum LDH above 0.6, or pleural LDH above two thirds of the upper limit of normal serum LDH."
+ },
+ {
+  "id": 26,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "How does empyema differ from a lung abscess on CT?",
+  "back": "Empyema forms an obtuse angle with the chest wall, compresses lung and shows the split pleura sign. An abscess forms acute angles and has a thick irregular wall."
+ },
+ {
+  "id": 27,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the deep sulcus sign?",
+  "back": "An abnormally deep lucent costophrenic angle on a supine film, indicating anterior pneumothorax."
+ },
+ {
+  "id": 28,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which features favour mesothelioma over metastatic pleural disease?",
+  "back": "Circumferential nodular pleural thickening, mediastinal pleural involvement and an encased, volume-reduced hemithorax."
+ },
+ {
+  "id": 29,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which mediastinal compartment contains thymoma, lymphoma, germ cell tumour and retrosternal thyroid?",
+  "back": "The prevascular compartment, remembered as the four Ts: thymoma, teratoma, terrible lymphoma, thyroid."
+ },
+ {
+  "id": 30,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which paraneoplastic conditions are associated with thymoma?",
+  "back": "Myasthenia gravis, pure red cell aplasia and hypogammaglobulinaemia."
+ },
+ {
+  "id": 31,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "How can a mediastinal teratoma be distinguished from a seminoma?",
+  "back": "A mature teratoma contains fat, fluid and calcification. A seminoma is homogeneous with a normal AFP, whereas non-seminomatous tumours are heterogeneous with a raised AFP."
+ },
+ {
+  "id": 32,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which solid nodule size under Fleischner 2017 needs no routine follow-up in a low risk adult?",
+  "back": "A solid nodule under 6 mm. At 6 to 8 mm, CT at 6 to 12 months is advised, then consider CT at 18 to 24 months."
+ },
+ {
+  "id": 33,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the Fleischner 2017 advice for a part-solid nodule of 6 mm or more?",
+  "back": "CT at 3 to 6 months; if it persists with a solid component under 6 mm, annual CT for 5 years. A solid component of 6 mm or more is highly suspicious and needs referral."
+ },
+ {
+  "id": 34,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "To whom does Fleischner 2017 not apply?",
+  "back": "Patients under 35, those in lung cancer screening, immunosuppressed patients and those with a known primary malignancy."
+ },
+ {
+  "id": 35,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the follow-up for a Lung-RADS 3 result?",
+  "back": "A 6 month low dose CT. Category 4A needs a 3 month CT, or PET/CT if the solid component is 8 mm or more."
+ },
+ {
+  "id": 36,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What are the TNM 9th edition T categories by size for lung cancer?",
+  "back": "T1 up to 3 cm, T2 over 3 to 5 cm, T3 over 5 to 7 cm and T4 over 7 cm, with T1 and T2 subdivided in 1 cm steps."
+ },
+ {
+  "id": 37,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What changed in M1c in TNM 9th edition?",
+  "back": "M1c was divided into M1c1 (multiple extrathoracic lesions in one organ system) and M1c2 (multiple lesions in more than one organ system)."
+ },
+ {
+  "id": 38,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What distinguishes a thick-walled malignant cavity from a benign one?",
+  "back": "A wall thicker than 15 mm favours malignancy and a wall thinner than 4 mm favours a benign cause."
+ },
+ {
+  "id": 39,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "What is the Pancoast tumour presentation?",
+  "back": "A superior sulcus tumour invading the chest wall apex, causing Horner syndrome and pain in the C8 to T1 distribution. MRI best shows brachial plexus and vessel involvement."
+ },
+ {
+  "id": 40,
+  "domain": "cardiothoracic",
+  "chapter": "Chest Imaging and Pulmonary Disease",
+  "front": "Which compartment of the mediastinum do neurogenic tumours occupy?",
+  "back": "The paravertebral compartment. Schwannoma and neurofibroma give dumbbell masses, and neuroblastoma in children may calcify."
+ },
+ {
+  "id": 41,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What late gadolinium enhancement pattern is typical of ischaemic scar?",
+  "back": "Subendocardial or transmural enhancement that follows a coronary territory. Non-ischaemic disease usually spares the subendocardium."
+ },
+ {
+  "id": 42,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which enhancement pattern is characteristic of dilated cardiomyopathy with worse arrhythmic prognosis?",
+  "back": "A linear midwall stripe of enhancement in the septum, with no subendocardial enhancement."
+ },
+ {
+  "id": 43,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What wall thickness defines hypertrophic cardiomyopathy in an adult?",
+  "back": "15 mm or more, usually asymmetric septal, in the absence of another cause such as hypertension or aortic stenosis."
+ },
+ {
+  "id": 44,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Where is late enhancement often seen in hypertrophic cardiomyopathy?",
+  "back": "Patchy midwall enhancement, often at the right ventricular insertion points."
+ },
+ {
+  "id": 45,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which MRI findings suggest cardiac amyloidosis?",
+  "back": "Diffuse subendocardial or transmural enhancement not following a coronary territory, difficulty nulling the myocardium, and markedly raised native T1 and extracellular volume."
+ },
+ {
+  "id": 46,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which scintigraphy agent is strongly positive in transthyretin cardiac amyloid?",
+  "back": "Technetium pyrophosphate or DPD scintigraphy shows intense myocardial uptake."
+ },
+ {
+  "id": 47,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What is the typical enhancement distribution in acute myocarditis?",
+  "back": "Subepicardial or midwall enhancement, classically inferolateral, with T2 evidence of oedema."
+ },
+ {
+  "id": 48,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "How does takotsubo cardiomyopathy appear on MRI?",
+  "back": "Apical ballooning with basal hyperkinesis, oedema and usually no significant enhancement, with normal coronary arteries."
+ },
+ {
+  "id": 49,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What T2 star value indicates myocardial iron loading?",
+  "back": "Below 20 ms indicates iron loading, and below 10 ms indicates severe loading."
+ },
+ {
+  "id": 50,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What are the CAD-RADS 2.0 categories 3 and 4A?",
+  "back": "Category 3 is 50 to 69 percent stenosis. Category 4A is 70 to 99 percent in one or two vessels."
+ },
+ {
+  "id": 51,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What defines CAD-RADS 4B?",
+  "back": "Left main stenosis above 50 percent, or three vessel disease with each stenosis 70 percent or more."
+ },
+ {
+  "id": 52,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Why does dense coronary calcium limit CT angiography?",
+  "back": "Blooming artefact overestimates stenosis, so a functional test or invasive angiography may be needed."
+ },
+ {
+  "id": 53,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Why are heart rate control and glyceryl trinitrate used before coronary CT?",
+  "back": "A slow regular rate, usually under 60 beats per minute, reduces motion, and nitrate dilates the coronary arteries."
+ },
+ {
+  "id": 54,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which ostium type of atrial septal defect is associated with Down syndrome?",
+  "back": "Ostium primum, with a cleft mitral valve."
+ },
+ {
+  "id": 55,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which atrial septal defect is associated with partial anomalous pulmonary venous return?",
+  "back": "The sinus venosus defect, high near the superior vena cava, usually with right upper lobe veins."
+ },
+ {
+  "id": 56,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which ventricular septal defect type is most common?",
+  "back": "The perimembranous type, and VSD is the commonest congenital heart defect overall."
+ },
+ {
+  "id": 57,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What radiographic signs suggest aortic coarctation?",
+  "back": "Figure of three sign at the aortic contour and inferior rib notching of the third to eighth ribs, with sparing of the first and second."
+ },
+ {
+  "id": 58,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which congenital valve anomaly is most commonly associated with coarctation?",
+  "back": "Bicuspid aortic valve."
+ },
+ {
+  "id": 59,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What is the radiographic appearance of tetralogy of Fallot?",
+  "back": "A boot shaped heart with a concave pulmonary bay and oligaemic lungs, with a right aortic arch in about a quarter."
+ },
+ {
+  "id": 60,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which congenital lesion gives an egg on a string heart?",
+  "back": "Complete transposition of the great arteries, with a narrow vascular pedicle."
+ },
+ {
+  "id": 61,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What is the snowman heart sign?",
+  "back": "Supracardiac total anomalous pulmonary venous connection, usually seen in later infancy."
+ },
+ {
+  "id": 62,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What calcium score thresholds favour severe aortic stenosis when echocardiography is discordant?",
+  "back": "About 2000 Agatston units in men and 1200 in women."
+ },
+ {
+  "id": 63,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which measurements does CT make before transcatheter aortic valve implantation?",
+  "back": "Annulus area and perimeter, coronary ostial heights, sinus of Valsalva size, root calcification and iliofemoral access."
+ },
+ {
+  "id": 64,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What chest radiograph signs suggest rheumatic mitral stenosis?",
+  "back": "Left atrial enlargement with a straight left heart border, double density behind the right heart border and upper lobe venous diversion."
+ },
+ {
+  "id": 65,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "How does mitral annular calcification typically appear?",
+  "back": "As a C shaped or ring shaped calcification at the posterior annulus, common in older patients, dialysis and hyperparathyroidism."
+ },
+ {
+  "id": 66,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What pericardial thickness suggests constrictive pericarditis?",
+  "back": "Above 4 mm, often calcified, with a small tubular ventricle and dilated atria and inferior vena cava."
+ },
+ {
+  "id": 67,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "How is constriction separated from restrictive cardiomyopathy?",
+  "back": "In constriction the pericardium is thickened and the myocardium normal, with septal bounce. In restriction the pericardium is normal and the myocardium abnormal."
+ },
+ {
+  "id": 68,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Where is the typical site of a pericardial cyst?",
+  "back": "The right cardiophrenic angle, as a thin walled non-enhancing water density lesion."
+ },
+ {
+  "id": 69,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What is the Stanford classification of aortic dissection?",
+  "back": "Type A involves the ascending aorta and is a surgical emergency. Type B spares it and is usually managed medically unless complicated."
+ },
+ {
+  "id": 70,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "How does intramural haematoma appear on non-contrast CT?",
+  "back": "A crescentic or circumferential high attenuation wall thickening of 60 to 70 Hounsfield units, with no flap and no enhancement."
+ },
+ {
+  "id": 71,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Where does traumatic aortic injury usually occur?",
+  "back": "At the aortic isthmus just distal to the left subclavian artery, from deceleration."
+ },
+ {
+  "id": 72,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which CT signs indicate right heart strain in pulmonary embolism?",
+  "back": "Right to left ventricular ratio above 1, septal bowing toward the left, dilated main pulmonary artery and contrast reflux into the inferior vena cava."
+ },
+ {
+  "id": 73,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What is the polo mint sign?",
+  "back": "A central filling defect surrounded by contrast in an acutely occluded pulmonary artery seen in cross section."
+ },
+ {
+  "id": 74,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "How does chronic thromboembolic disease differ from acute embolism on CT?",
+  "back": "Eccentric wall adherent thrombus at an obtuse angle, webs, bands, vessel narrowing and mosaic attenuation."
+ },
+ {
+  "id": 75,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which test is preferred for screening chronic thromboembolic pulmonary hypertension?",
+  "back": "The ventilation perfusion scan, which has high sensitivity."
+ },
+ {
+  "id": 76,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What main pulmonary artery size suggests pulmonary hypertension?",
+  "back": "A diameter above about 29 mm or a pulmonary artery to ascending aorta ratio above 1."
+ },
+ {
+  "id": 77,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "What is the correct position of an endotracheal tube tip?",
+  "back": "About 5 cm above the carina, with an acceptable range of 3 to 7 cm in neutral head position."
+ },
+ {
+  "id": 78,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Where should the tip of a central venous catheter lie?",
+  "back": "At the lower superior vena cava or cavoatrial junction, above the pericardial reflection."
+ },
+ {
+  "id": 79,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Where should an intra-aortic balloon pump tip lie?",
+  "back": "1 to 2 cm below the top of the aortic knuckle, just distal to the origin of the left subclavian artery."
+ },
+ {
+  "id": 80,
+  "domain": "cardiothoracic",
+  "chapter": "Cardiac and Vascular Thoracic Imaging",
+  "front": "Which side is diaphragmatic rupture more often diagnosed, and why?",
+  "back": "The left, because the liver protects the right. Look for herniated stomach or bowel and a collar sign."
+ },
+ {
+  "id": 81,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which T2 and enhancement pattern characterises hepatic haemangioma?",
+  "back": "Very bright T2 signal close to CSF and peripheral nodular discontinuous enhancement that fills centripetally and persists on delayed images."
+ },
+ {
+  "id": 82,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What discriminates focal nodular hyperplasia from adenoma on gadoxetate MRI?",
+  "back": "Focal nodular hyperplasia is iso to hyperintense in the hepatobiliary phase; adenoma is usually hypointense because it lacks bile ducts."
+ },
+ {
+  "id": 83,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which feature of focal nodular hyperplasia is bright on T2 and enhances late?",
+  "back": "The central scar."
+ },
+ {
+  "id": 84,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which hepatocellular adenoma subtype is diffusely fatty with signal drop on opposed phase imaging?",
+  "back": "HNF1 alpha inactivated adenoma."
+ },
+ {
+  "id": 85,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which adenoma subtype carries the highest malignant risk?",
+  "back": "Beta catenin activated adenoma, more common in men."
+ },
+ {
+  "id": 86,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which adenoma findings usually prompt resection or intervention?",
+  "back": "Size over 5 cm, any adenoma in a man, and haemorrhage."
+ },
+ {
+  "id": 87,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which LI-RADS major features apply to hepatocellular carcinoma?",
+  "back": "Non rim arterial phase hyperenhancement, nonperipheral washout, enhancing capsule and threshold growth."
+ },
+ {
+  "id": 88,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What does LR-M denote?",
+  "back": "Probable or definite malignancy that is not specific for hepatocellular carcinoma, such as a targetoid lesion typical of cholangiocarcinoma."
+ },
+ {
+  "id": 89,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What does LR-TIV denote?",
+  "back": "Tumour in vein, for example enhancing expansile portal vein tumour thrombus."
+ },
+ {
+  "id": 90,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "In which patients is LI-RADS valid?",
+  "back": "Those at high risk for hepatocellular carcinoma, mainly cirrhosis or chronic hepatitis B; not a non cirrhotic liver."
+ },
+ {
+  "id": 91,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the classic appearance of colorectal liver metastases?",
+  "back": "Hypovascular lesions with peripheral rim enhancement and a bright T2 rim, with calcification in mucinous tumours."
+ },
+ {
+  "id": 92,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which liver metastases are typically hypervascular?",
+  "back": "Neuroendocrine, renal cell, thyroid and melanoma metastases."
+ },
+ {
+  "id": 93,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which signs suggest a pyogenic liver abscess?",
+  "back": "Thick enhancing wall, internal septa, the cluster sign and a double target appearance."
+ },
+ {
+  "id": 94,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the water lily sign?",
+  "back": "A floating collapsed membrane in a hydatid cyst, usually with daughter cysts and a calcified wall."
+ },
+ {
+  "id": 95,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "How do you separate focal fat sparing from a mass?",
+  "back": "Fat has no mass effect or vessel distortion, sits beside the gallbladder fossa or portal bifurcation, and drops signal on opposed phase MRI."
+ },
+ {
+  "id": 96,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "How does iron overload behave on gradient echo MRI compared with fat?",
+  "back": "Signal loss increases with longer echo time on in phase images, whereas fat drops on opposed phase."
+ },
+ {
+  "id": 97,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which signs of portal hypertension are seen on imaging?",
+  "back": "Portal vein over 13 mm, splenomegaly and collaterals around the stomach, oesophagus, umbilical vein and splenorenal region."
+ },
+ {
+  "id": 98,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What does Budd-Chiari syndrome show on imaging?",
+  "back": "Hepatic venous outflow obstruction with enlarged caudate, patchy central enhancement and comma shaped intrahepatic collaterals."
+ },
+ {
+  "id": 99,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "How does primary haemochromatosis differ from transfusional iron overload?",
+  "back": "Primary spares the spleen; transfusional overload also darkens spleen and marrow."
+ },
+ {
+  "id": 100,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the most specific ultrasound sign of acute cholecystitis?",
+  "back": "A stone impacted in the gallbladder neck, with wall over 3 mm, pericholecystic fluid and sonographic Murphy sign."
+ },
+ {
+  "id": 101,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What does non filling of the gallbladder at 60 minutes on HIDA suggest?",
+  "back": "Acute cholecystitis from cystic duct obstruction."
+ },
+ {
+  "id": 102,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is emphysematous cholecystitis?",
+  "back": "Gas in the gallbladder wall or lumen, typically in diabetic patients, with high risk of perforation."
+ },
+ {
+  "id": 103,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the ultrasound hallmark of adenomyomatosis?",
+  "back": "Intramural cysts with comet tail artefacts from Rokitansky-Aschoff sinuses."
+ },
+ {
+  "id": 104,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What gallbladder polyp size usually prompts surgical referral?",
+  "back": "10 mm or more."
+ },
+ {
+  "id": 105,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the double duct sign and what does it suggest?",
+  "back": "Dilated common bile duct and pancreatic duct, suggesting a pancreatic head or ampullary tumour."
+ },
+ {
+  "id": 106,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which modality best assesses choledocholithiasis without radiation?",
+  "back": "MRCP."
+ },
+ {
+  "id": 107,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the typical appearance of primary sclerosing cholangitis?",
+  "back": "Multifocal short strictures and dilatation giving a beaded duct appearance, associated with ulcerative colitis and cholangiocarcinoma."
+ },
+ {
+  "id": 108,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which Todani type is Caroli disease?",
+  "back": "Type V, intrahepatic ductal dilatation with the central dot sign."
+ },
+ {
+  "id": 109,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which system classifies perihilar cholangiocarcinoma extent?",
+  "back": "Bismuth-Corlette."
+ },
+ {
+  "id": 110,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "When should CT be done in acute pancreatitis?",
+  "back": "Only when diagnosis is uncertain or complications are suspected, ideally after 72 hours."
+ },
+ {
+  "id": 111,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "How does walled off necrosis differ from a pseudocyst?",
+  "back": "Both are beyond 4 weeks with a wall; walled off necrosis contains solid debris, pseudocyst only fluid."
+ },
+ {
+  "id": 112,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which finding on CT suggests infected pancreatic necrosis?",
+  "back": "Gas within the collection."
+ },
+ {
+  "id": 113,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which vascular complications occur in pancreatitis?",
+  "back": "Splenic vein thrombosis and pseudoaneurysm of the splenic or gastroduodenal artery."
+ },
+ {
+  "id": 114,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the CT appearance of autoimmune pancreatitis type 1?",
+  "back": "Sausage shaped diffusely enlarged gland with a non enhancing capsule like rim, raised IgG4 and steroid response."
+ },
+ {
+  "id": 115,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What vascular contact makes pancreatic adenocarcinoma borderline resectable versus unresectable?",
+  "back": "SMA or coeliac contact of 180 degrees or less is borderline; over 180 degrees is unresectable."
+ },
+ {
+  "id": 116,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which pancreatic cyst is microcystic with a central scar and sunburst calcification?",
+  "back": "Serous cystadenoma."
+ },
+ {
+  "id": 117,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What are high risk stigmata of IPMN?",
+  "back": "Enhancing mural nodule of 5 mm or more, main duct 10 mm or more, or obstructive jaundice with a cystic lesion in the pancreatic head."
+ },
+ {
+  "id": 118,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is the CT appearance of a splenic infarct?",
+  "back": "A peripheral wedge shaped low attenuation area."
+ },
+ {
+  "id": 119,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which splenic injury findings favour embolisation?",
+  "back": "Active contrast extravasation or a pseudoaneurysm."
+ },
+ {
+  "id": 120,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What are the features of Crohn disease on CT or MR enterography?",
+  "back": "Segmental asymmetric thickening, comb sign, creeping fat, skip lesions, fistulae and abscesses."
+ },
+ {
+  "id": 121,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "How does ulcerative colitis differ from Crohn disease on imaging?",
+  "back": "Continuous symmetrical disease from the rectum, loss of haustra (lead pipe colon) and pseudopolyps."
+ },
+ {
+  "id": 122,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Where does ischaemic colitis typically occur?",
+  "back": "Watershed regions: splenic flexure and rectosigmoid junction."
+ },
+ {
+  "id": 123,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What defines small bowel obstruction on CT?",
+  "back": "Small bowel over 3 cm with a transition point and collapsed distal bowel."
+ },
+ {
+  "id": 124,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which CT signs suggest bowel ischaemia in obstruction?",
+  "back": "Mesenteric swirl, reduced wall enhancement, wall thickening, pneumatosis, portal venous gas and free fluid."
+ },
+ {
+  "id": 125,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What is Rigler triad?",
+  "back": "Small bowel obstruction, pneumobilia and an ectopic gallstone in gallstone ileus."
+ },
+ {
+  "id": 126,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What are normal maximum bowel diameters on an abdominal radiograph?",
+  "back": "Small bowel 3 cm, colon 6 cm, caecum 9 cm."
+ },
+ {
+  "id": 127,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which sonographic findings suggest appendicitis?",
+  "back": "A non compressible appendix over 6 mm, appendicolith and periappendiceal fat stranding."
+ },
+ {
+  "id": 128,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "How is diverticulitis graded by modified Hinchey?",
+  "back": "Ia phlegmon, Ib pericolic abscess, II pelvic or distant abscess, III purulent peritonitis, IV faecal peritonitis."
+ },
+ {
+  "id": 129,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "Which contrast is used when perforation is suspected?",
+  "back": "Water soluble low osmolar contrast, as barium causes peritonitis or mediastinitis."
+ },
+ {
+  "id": 130,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Gastrointestinal and Hepatobiliary Imaging",
+  "front": "What are the signs of intussusception on ultrasound?",
+  "back": "Target sign in transverse and pseudokidney sign in longitudinal section."
+ },
+ {
+  "id": 131,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the Bosniak 2019 feature that separates Class III from Class IV?",
+  "back": "Class IV has an enhancing nodule (convex protrusion 4 mm or more with obtuse margins, or any size with acute margins). Class III has thick (4 mm or more) or irregular enhancing walls or septa without a nodule."
+ },
+ {
+  "id": 132,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What approximate malignancy risks are attached to Bosniak III and IV?",
+  "back": "About 50 per cent for Class III and about 90 per cent for Class IV."
+ },
+ {
+  "id": 133,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What CT change in attenuation defines enhancement of a renal lesion?",
+  "back": "An increase of 20 HU or more between unenhanced and post-contrast images. A change under 10 HU is non-enhancement."
+ },
+ {
+  "id": 134,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which Bosniak class has four or more smooth thin enhancing septa or smooth minimal wall thickening of 3 mm or less?",
+  "back": "Class IIF, which is followed by imaging."
+ },
+ {
+  "id": 135,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What finding makes a renal mass an angiomyolipoma?",
+  "back": "Macroscopic fat, below minus 20 HU on CT or signal loss on fat-suppressed MRI."
+ },
+ {
+  "id": 136,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "When does angiomyolipoma bleeding risk rise, and what treatment is considered?",
+  "back": "Risk rises with size above 4 cm and intralesional aneurysms of 5 mm or more. Embolisation is considered."
+ },
+ {
+  "id": 137,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the typical enhancement pattern of clear cell renal cell carcinoma?",
+  "back": "Avid corticomedullary enhancement, heterogeneity with necrosis, and washout in the nephrographic phase."
+ },
+ {
+  "id": 138,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "How does papillary renal carcinoma differ from clear cell on imaging?",
+  "back": "It is hypovascular with weak enhancement and low T2 signal."
+ },
+ {
+  "id": 139,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Why is a central scar not reliable for diagnosing oncocytoma?",
+  "back": "Central stellate scars also occur in renal cell carcinoma, so tissue diagnosis or resection is still needed."
+ },
+ {
+  "id": 140,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the T1a, T1b, T2a and T2b size ladder for renal cell carcinoma?",
+  "back": "T1a 4 cm or less, T1b more than 4 to 7 cm, T2a more than 7 to 10 cm, T2b more than 10 cm, all confined to the kidney."
+ },
+ {
+  "id": 141,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What defines T3b and T3c renal cell carcinoma?",
+  "back": "T3b is tumour thrombus in the IVC below the diaphragm. T3c is thrombus above the diaphragm or invasion of the IVC wall."
+ },
+ {
+  "id": 142,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "How can tumour thrombus be told from bland thrombus?",
+  "back": "Tumour thrombus enhances and expands the vein. Bland thrombus does not enhance."
+ },
+ {
+  "id": 143,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the first-line imaging test for suspected ureteric colic in an adult?",
+  "back": "Unenhanced low-dose CT of the kidneys, ureters and bladder."
+ },
+ {
+  "id": 144,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which imaging test is preferred for suspected renal colic in pregnancy?",
+  "back": "Ultrasound first, with MRI as the problem-solving test."
+ },
+ {
+  "id": 145,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What sign helps separate a ureteric stone from a pelvic phlebolith?",
+  "back": "The soft-tissue rim sign of oedematous ureteral wall around the stone. A phlebolith is round with central lucency and a comet tail."
+ },
+ {
+  "id": 146,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "At what size do ureteric stones usually pass spontaneously?",
+  "back": "Stones of 5 mm or less pass in most patients. Passage becomes unlikely above 10 mm."
+ },
+ {
+  "id": 147,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "How do uric acid stones appear on plain film and CT?",
+  "back": "Radiolucent on plain film but dense on CT, usually 200 to 500 HU."
+ },
+ {
+  "id": 148,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which stone type is not visible on CT?",
+  "back": "Indinavir stones, recognised through secondary signs such as hydronephrosis."
+ },
+ {
+  "id": 149,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which condition produces staghorn calculi with alkaline urine?",
+  "back": "Struvite stones from urease-producing organisms."
+ },
+ {
+  "id": 150,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What does diuretic renography (MAG3) show in true obstruction?",
+  "back": "A rising curve with delayed washout after furosemide, with T1/2 above 20 minutes."
+ },
+ {
+  "id": 151,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the Weigert-Meyer rule?",
+  "back": "In a duplex system the upper pole ureter inserts ectopically, inferior and medial, and is obstructed with a ureterocele. The lower pole ureter inserts laterally and refluxes."
+ },
+ {
+  "id": 152,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the ultrasound or urographic appearance of a ureterocele?",
+  "back": "A cobra head sign."
+ },
+ {
+  "id": 153,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What distinguishes a collecting system tumour from a blood clot on CT urography?",
+  "back": "Tumour enhances and is fixed to the wall. A clot does not enhance."
+ },
+ {
+  "id": 154,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What sequence is key for bladder cancer muscle invasion and what scoring system applies?",
+  "back": "T2-weighted imaging with DWI and DCE, scored using VI-RADS from 1 to 5."
+ },
+ {
+  "id": 155,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "How does intraperitoneal bladder rupture differ from extraperitoneal on cystography?",
+  "back": "Intraperitoneal shows contrast outlining bowel loops and needs surgery. Extraperitoneal shows flame-shaped perivesical extravasation, usually managed with a catheter."
+ },
+ {
+  "id": 156,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What unenhanced HU value diagnoses a lipid-rich adrenal adenoma?",
+  "back": "10 HU or less."
+ },
+ {
+  "id": 157,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What are the CT washout thresholds for an adrenal adenoma?",
+  "back": "Absolute washout 60 per cent or more, or relative washout 40 per cent or more, on a 15 minute delayed scan."
+ },
+ {
+  "id": 158,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "How is absolute percentage washout calculated?",
+  "back": "(Enhanced minus delayed) divided by (enhanced minus unenhanced)."
+ },
+ {
+  "id": 159,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What does a signal drop on opposed-phase MRI indicate in an adrenal lesion?",
+  "back": "Intracellular lipid, suggesting adenoma. A lipid-poor adenoma may not drop."
+ },
+ {
+  "id": 160,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What biochemical test should precede biopsy of a hypervascular, T2-bright adrenal mass?",
+  "back": "Plasma or urinary metanephrines to exclude phaeochromocytoma."
+ },
+ {
+  "id": 161,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What imaging feature identifies adrenal myelolipoma?",
+  "back": "Macroscopic fat within the adrenal lesion."
+ },
+ {
+  "id": 162,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "At what size is an indeterminate adrenal mass considered for resection?",
+  "back": "Above 4 cm."
+ },
+ {
+  "id": 163,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "How does retroperitoneal fibrosis differ from lymphoma around the aorta?",
+  "back": "Fibrosis hugs the aorta, does not displace it anteriorly and draws ureters medially. Lymphoma lifts the aorta from the spine."
+ },
+ {
+  "id": 164,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What does active retroperitoneal fibrosis look like on MRI?",
+  "back": "Bright on T2-weighted imaging with enhancement. Mature fibrosis is dark."
+ },
+ {
+  "id": 165,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which retroperitoneal compartment contains the pancreas and duodenum?",
+  "back": "The anterior pararenal space."
+ },
+ {
+  "id": 166,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which zone is judged mainly on DWI in PI-RADS v2.1, and which on T2?",
+  "back": "The peripheral zone on DWI, the transition zone on T2-weighted imaging."
+ },
+ {
+  "id": 167,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the role of DCE in PI-RADS v2.1?",
+  "back": "It only upgrades a peripheral zone DWI score of 3 to 4 when positive."
+ },
+ {
+  "id": 168,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What size and features define a PI-RADS 5 lesion?",
+  "back": "A lesion 1.5 cm or larger, or with definite extraprostatic extension. It scores 5 on the dominant sequence: marked restriction on DWI in the peripheral zone, or T2 score 5 in the transition zone."
+ },
+ {
+  "id": 169,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What T2 appearance scores 2 in the transition zone?",
+  "back": "A circumscribed encapsulated nodule or a mildly heterogeneous nodule."
+ },
+ {
+  "id": 170,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which stage is seminal vesicle invasion in prostate cancer?",
+  "back": "T3b."
+ },
+ {
+  "id": 171,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Why can MRI be misleading soon after prostate biopsy?",
+  "back": "Haemorrhage is high on T1 and can mimic or obscure tumour."
+ },
+ {
+  "id": 172,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Which imaging is more sensitive than CT for nodal and bone prostate disease?",
+  "back": "PSMA PET-CT."
+ },
+ {
+  "id": 173,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the imaging test of choice for scrotal disease?",
+  "back": "Ultrasound with colour Doppler."
+ },
+ {
+  "id": 174,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the typical ultrasound appearance of seminoma?",
+  "back": "A homogeneous hypoechoic, often lobulated, intratesticular mass."
+ },
+ {
+  "id": 175,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Where does the right testis drain first?",
+  "back": "To the interaortocaval nodes just below the right renal vein."
+ },
+ {
+  "id": 176,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Where does the left testis drain first?",
+  "back": "To the left para-aortic nodes just below the left renal vein."
+ },
+ {
+  "id": 177,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What are the Doppler and grey-scale features of testicular torsion?",
+  "back": "Absent or reduced intratesticular flow, an enlarged heterogeneous hypoechoic testis and a whirlpool sign of the cord."
+ },
+ {
+  "id": 178,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What is the commonest testicular tumour in men over 60?",
+  "back": "Lymphoma, which can be bilateral."
+ },
+ {
+  "id": 179,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "Why is a left varicocele more common, and what does a new right varicocele suggest?",
+  "back": "The left testicular vein drains into the left renal vein at a right angle. A new right or non-reducing varicocele prompts a search for a retroperitoneal or renal mass."
+ },
+ {
+  "id": 180,
+  "domain": "abdominal_and_pelvic",
+  "chapter": "Genitourinary Adrenal and Pelvic Imaging",
+  "front": "What nodal short-axis threshold is usually used in the abdomen and pelvis?",
+  "back": "More than 10 mm, with round shape, loss of the fatty hilum and necrosis favouring malignancy."
+ },
+ {
+  "id": 181,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What defines a Salter-Harris type II injury?",
+  "back": "A fracture through the physis that exits through the metaphysis, leaving a Thurston Holland fragment. It is the commonest type."
+ },
+ {
+  "id": 182,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which Salter-Harris types are intra-articular and need anatomical reduction?",
+  "back": "Types III and IV, because they cross the epiphysis into the joint."
+ },
+ {
+  "id": 183,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How is the Weber classification of ankle fractures defined?",
+  "back": "By the level of the fibular fracture relative to the syndesmosis: A below, B at, C above it. Weber C implies syndesmotic disruption and is usually unstable."
+ },
+ {
+  "id": 184,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which proximal injury must be sought when the ankle mortise is widened with a normal distal fibula?",
+  "back": "A Maisonneuve injury, a proximal fibular fracture with deltoid or medial malleolar injury."
+ },
+ {
+  "id": 185,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How are Garden stages grouped practically?",
+  "back": "Undisplaced (I and II) versus displaced (III and IV). Displaced fractures carry a high risk of avascular necrosis and are often treated by arthroplasty in older patients."
+ },
+ {
+  "id": 186,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What is a Galeazzi injury?",
+  "back": "A distal radial shaft fracture with disruption of the distal radioulnar joint. A Monteggia injury is a proximal ulnar fracture with radial head dislocation."
+ },
+ {
+  "id": 187,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What is the best test for an occult scaphoid fracture after normal radiographs?",
+  "back": "MRI, which is the most sensitive. CT is an alternative where MRI is unavailable."
+ },
+ {
+  "id": 188,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Why is the proximal pole of the scaphoid prone to avascular necrosis?",
+  "back": "The blood supply enters distally, so a proximal fracture can leave the pole poorly perfused."
+ },
+ {
+  "id": 189,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What defines a Salter-Harris type V injury?",
+  "back": "A crush injury to the physis, usually diagnosed in retrospect from growth arrest."
+ },
+ {
+  "id": 190,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which features of a fracture suggest it is pathological?",
+  "back": "Minimal trauma, a lytic lesion or soft tissue mass, or cortical destruction rather than a simple break."
+ },
+ {
+  "id": 191,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which zone of transition and periosteal reaction suggest an aggressive bone lesion?",
+  "back": "A wide, moth-eaten or permeative zone of transition with lamellated, spiculated or interrupted (Codman triangle) periosteal reaction."
+ },
+ {
+  "id": 192,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What is the likely diagnosis of an eccentric lytic subarticular lesion in a young adult with a closed physis?",
+  "back": "Giant cell tumour, with a non-sclerotic margin extending to the subarticular surface."
+ },
+ {
+  "id": 193,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What are the imaging features of osteoid osteoma?",
+  "back": "A nidus under 2 cm with surrounding sclerosis in a young patient with night pain relieved by NSAIDs. CT shows the nidus best, and radiofrequency ablation treats it."
+ },
+ {
+  "id": 194,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What feature of an osteochondroma raises concern for chondrosarcoma?",
+  "back": "A cartilage cap thicker than 1.5 to 2 cm in an adult, or growth after skeletal maturity."
+ },
+ {
+  "id": 195,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which features favour chondrosarcoma over enchondroma in a long bone?",
+  "back": "Pain, endosteal scalloping of more than two thirds of cortical thickness, cortical destruction, a soft tissue mass and size over 5 to 6 cm."
+ },
+ {
+  "id": 196,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What is the shepherd's crook deformity and which lesion causes it?",
+  "back": "Bowing of the proximal femur in fibrous dysplasia, a ground-glass lesion with a rind of sclerosis."
+ },
+ {
+  "id": 197,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How do a simple bone cyst and an aneurysmal bone cyst differ on imaging?",
+  "back": "A simple cyst is central and lytic, abutting the physis, and may show a fallen fragment sign; an aneurysmal cyst is eccentric, expansile and multiloculated with fluid-fluid levels."
+ },
+ {
+  "id": 198,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Where does osteosarcoma typically arise and what is its matrix?",
+  "back": "In the metaphysis around the knee or proximal humerus in adolescents, producing osteoid matrix with a sunburst or Codman triangle reaction."
+ },
+ {
+  "id": 199,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which tumour shows a large soft tissue mass out of proportion to bony destruction in a child?",
+  "back": "Ewing sarcoma, with permeative destruction and lamellated periosteal reaction. It can mimic osteomyelitis."
+ },
+ {
+  "id": 200,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Why can a bone scan be normal in myeloma?",
+  "back": "Myeloma produces little osteoblastic activity, so lesions are lytic and punched-out; whole-body low-dose CT or MRI is preferred."
+ },
+ {
+  "id": 201,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What is the winking owl sign?",
+  "back": "Loss of a vertebral pedicle on the frontal spine radiograph, from metastatic destruction."
+ },
+ {
+  "id": 202,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Why is haematogenous osteomyelitis in children usually metaphyseal?",
+  "back": "Slow vascular flow in the metaphysis allows bacteria to settle."
+ },
+ {
+  "id": 203,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "When do radiographs become abnormal in acute osteomyelitis and what is the best early test?",
+  "back": "After about 10 to 14 days; MRI is the most sensitive and specific early test."
+ },
+ {
+  "id": 204,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Define sequestrum, involucrum and cloaca.",
+  "back": "The sequestrum is necrotic bone separated from viable bone, the involucrum is the new periosteal bone sheath around it, and the cloaca is the channel through which pus drains."
+ },
+ {
+  "id": 205,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How does tuberculous spondylitis differ from pyogenic discitis?",
+  "back": "It spares the disc until late, involves the anterior vertebral bodies and produces large paravertebral abscesses and a gibbus."
+ },
+ {
+  "id": 206,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What T-score defines osteoporosis on DXA?",
+  "back": "A T-score of minus 2.5 or lower in postmenopausal women and men over 50; osteopenia lies between minus 1 and minus 2.5."
+ },
+ {
+  "id": 207,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What are Looser zones and in which condition do they occur?",
+  "back": "Pseudofractures perpendicular to the cortex, often symmetrical, in osteomalacia."
+ },
+ {
+  "id": 208,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Describe the three phases of Paget disease.",
+  "back": "A lytic phase (flame-shaped lucency, osteoporosis circumscripta), a mixed phase, and a sclerotic phase with cortical thickening, coarse trabeculae and bone expansion."
+ },
+ {
+  "id": 209,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How do osteoarthritis and rheumatoid arthritis differ in bone density and joint distribution?",
+  "back": "Osteoarthritis preserves density and affects the DIP, PIP and first CMC joints; rheumatoid causes periarticular osteopenia with marginal erosions of the MCP, PIP and wrists, sparing the DIPs."
+ },
+ {
+  "id": 210,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What are the radiographic features of gout?",
+  "back": "Punched-out erosions with overhanging edges away from the joint margin, preserved joint space until late, soft tissue tophi and normal density."
+ },
+ {
+  "id": 211,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What is the earliest imaging finding in ankylosing spondylitis and where?",
+  "back": "Bilateral symmetrical sacroiliitis with iliac-side erosions and sclerosis; MRI shows marrow oedema before radiographs change."
+ },
+ {
+  "id": 212,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "What are the MRI signs of femoral head avascular necrosis?",
+  "back": "A serpentine low T1 band and the double line sign on T2; later radiographs show sclerosis, the crescent sign and collapse."
+ },
+ {
+  "id": 213,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How is slipped capital femoral epiphysis recognised on an AP pelvis?",
+  "back": "The Klein line along the superior femoral neck fails to intersect the epiphysis; the lateral view is more sensitive."
+ },
+ {
+  "id": 214,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "Which findings in a child have high specificity for non-accidental injury?",
+  "back": "Classic metaphyseal lesions (corner or bucket handle), posterior rib fractures and scapular fractures. Fractures of differing ages are only moderately specific."
+ },
+ {
+  "id": 215,
+  "domain": "musculoskeletal",
+  "chapter": "Bone and Joint Imaging",
+  "front": "How is developmental dysplasia of the hip screened in infants?",
+  "back": "Ultrasound before ossification of the femoral head (about 4 to 6 months), assessing the alpha angle and femoral head coverage."
+ },
+ {
+  "id": 216,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What MRI criterion defines a meniscal tear?",
+  "back": "Intermeniscal signal reaching an articular surface, on at least two consecutive slices or in two planes. Signal confined within the meniscus is intrasubstance degeneration."
+ },
+ {
+  "id": 217,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which signs indicate a bucket handle meniscal tear?",
+  "back": "The double PCL sign from the flipped inner fragment in the intercondylar notch, and a truncated or absent bow tie on sagittal images of the body."
+ },
+ {
+  "id": 218,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Why does a medial meniscus root radial tear matter biomechanically?",
+  "back": "It disrupts hoop tension, so the meniscus behaves as if resected, with extrusion of the body and often subchondral insufficiency change."
+ },
+ {
+  "id": 219,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which bone bruise pattern accompanies an acute ACL tear?",
+  "back": "Pivot shift contusions in the lateral femoral condyle and the posterolateral tibial plateau, often with anterior tibial translation."
+ },
+ {
+  "id": 220,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which small avulsion fracture is strongly associated with an ACL tear?",
+  "back": "The Segond fracture, an avulsion from the lateral tibial plateau reflecting lateral capsular injury."
+ },
+ {
+  "id": 221,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How is an MCL injury graded on MRI?",
+  "back": "Grade 1 is periligamentous oedema, grade 2 is partial fibre disruption, grade 3 is complete discontinuity."
+ },
+ {
+  "id": 222,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What is the kissing contusion pattern of transient patellar dislocation?",
+  "back": "Oedema in the medial patellar facet and the anterolateral femoral condyle, with a torn medial patellofemoral ligament and an effusion."
+ },
+ {
+  "id": 223,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which condyle region is typical for osteochondritis dissecans of the knee?",
+  "back": "The lateral aspect of the medial femoral condyle, in adolescents."
+ },
+ {
+  "id": 224,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What MRI features make an osteochondritis dissecans fragment unstable?",
+  "back": "A T2 bright fluid line beneath the fragment, a cyst beneath it, a defect in the overlying cartilage and fluid tracking through it."
+ },
+ {
+  "id": 225,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which rotator cuff muscle finding predicts poor repair outcome?",
+  "back": "High grade Goutallier fatty infiltration on sagittal images, with a tangent sign and tendon retraction."
+ },
+ {
+  "id": 226,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which anatomical factors predispose to subacromial impingement?",
+  "back": "A type III hooked acromion, an os acromiale and a degenerate acromioclavicular joint with inferior osteophytes."
+ },
+ {
+  "id": 227,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How does calcific tendinitis appear on imaging?",
+  "back": "Dense on radiographs, low signal on all MRI sequences, usually in the supraspinatus 1 to 2 cm from the insertion, with oedema in the resorptive phase."
+ },
+ {
+  "id": 228,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What injuries result from anterior shoulder dislocation?",
+  "back": "A Bankart tear of the anteroinferior labrum and a Hill-Sachs impaction fracture of the posterolateral humeral head."
+ },
+ {
+  "id": 229,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What distinguishes an ALPSA lesion from a Perthes lesion?",
+  "back": "In ALPSA the labrum and periosteum are stripped and displaced medially along the scapular neck. In a Perthes lesion the stripped periosteal sleeve is not displaced."
+ },
+ {
+  "id": 230,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which injury pattern is classic for posterior shoulder dislocation after seizure or electric shock?",
+  "back": "A reverse Bankart lesion with a reverse Hill-Sachs defect in the anteromedial humeral head."
+ },
+ {
+  "id": 231,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How is cam morphology quantified and what is it?",
+  "back": "An aspherical femoral head neck junction measured by an alpha angle above about 55 degrees on axial oblique images."
+ },
+ {
+  "id": 232,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which Modic type is the commonest and what does it represent?",
+  "back": "Type 2 is the commonest. It is high signal on both T1 and T2 and represents fatty replacement of the endplate marrow."
+ },
+ {
+  "id": 233,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which ankle ligament is most often injured in an inversion sprain?",
+  "back": "The anterior talofibular ligament, then the calcaneofibular ligament."
+ },
+ {
+  "id": 234,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which ligament is involved in a high ankle sprain?",
+  "back": "The anterior inferior tibiofibular ligament of the syndesmosis, typically after external rotation."
+ },
+ {
+  "id": 235,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Where are talar dome osteochondral lesions found?",
+  "back": "Posteromedially after inversion with plantar flexion, and anterolaterally after inversion with dorsiflexion."
+ },
+ {
+  "id": 236,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What does a scapholunate gap above 3 mm on a radiograph indicate?",
+  "back": "The Terry Thomas sign of scapholunate ligament disruption, which can progress to scapholunate advanced collapse."
+ },
+ {
+  "id": 237,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What is the zoning phenomenon of myositis ossificans?",
+  "back": "Peripheral mature ossification with an immature centre on CT, which distinguishes it from sarcoma. Early lesions can mimic a tumour."
+ },
+ {
+  "id": 238,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How are MRI muscle strains graded?",
+  "back": "Grade 1 is oedema without architectural distortion, grade 2 is a partial tear with haematoma, grade 3 is a complete rupture with a gap."
+ },
+ {
+  "id": 239,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which MRI features favour atypical lipomatous tumour over lipoma?",
+  "back": "Size over 10 cm, deep location, septa thicker than 2 mm, nodularity and non-fatty components, with MDM2 amplification confirming it."
+ },
+ {
+  "id": 240,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What are the MRI signs of a peripheral nerve sheath tumour?",
+  "back": "The target sign, the split fat sign and the fascicular sign, along the course of a nerve."
+ },
+ {
+  "id": 241,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Why does tenosynovial giant cell tumour bloom on gradient echo?",
+  "back": "Haemosiderin deposition causes low T1 and T2 signal with susceptibility blooming and synovial enhancement."
+ },
+ {
+  "id": 242,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What are the Modic endplate types on T1 and T2?",
+  "back": "Type 1 is low T1 and high T2 (oedema), type 2 is high on both (fat), type 3 is low on both (sclerosis)."
+ },
+ {
+  "id": 243,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How are disc herniations classified by shape?",
+  "back": "Protrusion has a base wider than any other dimension of the herniated material, extrusion has a dimension exceeding the base, and sequestration is a free fragment."
+ },
+ {
+  "id": 244,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "Which nerve roots are compressed by a posterolateral L4/5 disc extrusion and a far lateral L4/5 herniation?",
+  "back": "A posterolateral extrusion compresses the traversing L5 root in the lateral recess. A far lateral herniation compresses the exiting L4 root."
+ },
+ {
+  "id": 245,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How is lumbar spondylolisthesis graded?",
+  "back": "By Meyerding in quarters of vertebral body width, from grade I up to 25 per cent through grade V, spondyloptosis."
+ },
+ {
+  "id": 246,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What are the types of odontoid fracture, and which is least likely to unite?",
+  "back": "Anderson and D'Alonzo: type I tip avulsion, type II through the base, type III into the C2 body. Type II has the highest non-union risk."
+ },
+ {
+  "id": 247,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What distinguishes pyogenic spondylodiscitis from Modic type 1 change?",
+  "back": "Infection shows a T2 bright disc with loss of the intranuclear cleft, endplate erosion and collections. Modic 1 has a dark disc and intact endplate cortex."
+ },
+ {
+  "id": 248,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How does tuberculous spondylitis differ from pyogenic infection?",
+  "back": "Subligamentous spread over several vertebrae, relative disc preservation, large calcified paraspinal abscess, thoracic predilection and gibbus deformity."
+ },
+ {
+  "id": 249,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "How does DISH differ from ankylosing spondylitis?",
+  "back": "DISH has flowing ossification over four or more contiguous vertebrae with preserved discs and normal sacroiliac joints, typically right-sided in the thoracic spine."
+ },
+ {
+  "id": 250,
+  "domain": "musculoskeletal",
+  "chapter": "Soft Tissue Sports and Spine Imaging",
+  "front": "What MRI finding qualifies as active sacroiliitis in axial spondyloarthritis?",
+  "back": "Subchondral bone marrow oedema on STIR, on at least two slices if a single lesion or one slice if multiple lesions. Erosions, sclerosis, fat metaplasia and ankylosis are structural lesions."
+ },
+ {
+  "id": 251,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does ASPECTS measure and what is the maximum score?",
+  "back": "The extent of early ischaemic change in the MCA territory on non contrast CT, out of 10 with one point deducted per affected region. A score of 6 or more clearly favours thrombectomy; scores of 3 to 5 may still benefit in recent large core trials."
+ },
+ {
+  "id": 252,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What CT finding suggests fresh thrombus in the MCA?",
+  "back": "A hyperdense MCA sign. In cross section within the Sylvian fissure it is called the dot sign."
+ },
+ {
+  "id": 253,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How is the penumbra defined on CT perfusion?",
+  "back": "As tissue with delayed Tmax (commonly above 6 seconds) beyond the core, with relatively preserved blood volume. The core is where cerebral blood volume or flow is reduced."
+ },
+ {
+  "id": 254,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does DWI FLAIR mismatch indicate?",
+  "back": "A DWI lesion without matching FLAIR hyperintensity suggests onset within about 4.5 hours, useful in wake up stroke."
+ },
+ {
+  "id": 255,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which imaging features suggest cerebral venous sinus thrombosis?",
+  "back": "A dense sinus on non contrast CT, the empty delta sign on contrast CT, and venous infarcts that cross arterial territories, often haemorrhagic. MR or CT venography confirms it."
+ },
+ {
+  "id": 256,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Where do hypertensive haemorrhages typically occur?",
+  "back": "In the putamen, thalamus, pons and cerebellum."
+ },
+ {
+  "id": 257,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which pattern suggests cerebral amyloid angiopathy?",
+  "back": "Lobar haemorrhage in an elderly patient with multiple peripheral cortical microbleeds on SWI."
+ },
+ {
+  "id": 258,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does the spot sign on CTA predict?",
+  "back": "Haematoma expansion, because contrast within the haematoma marks active bleeding."
+ },
+ {
+  "id": 259,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is the MRI appearance of early subacute haematoma?",
+  "back": "Intracellular methaemoglobin: bright on T1 and dark on T2."
+ },
+ {
+  "id": 260,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which MRI sequences show chronic haematoma as dark?",
+  "back": "T2 and SWI, from haemosiderin that persists as a rim for years."
+ },
+ {
+  "id": 261,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How sensitive is early CT for SAH?",
+  "back": "Close to 100 percent within 6 hours of onset on a modern scanner, then falling with time, so lumbar puncture may be needed later."
+ },
+ {
+  "id": 262,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which aneurysm does blood in the interhemispheric fissure suggest?",
+  "back": "An anterior communicating artery aneurysm, the most common site."
+ },
+ {
+  "id": 263,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is the typical pattern of perimesencephalic non aneurysmal SAH?",
+  "back": "Blood centred anterior to the midbrain and pons with little Sylvian extension, a benign course, and a negative CTA."
+ },
+ {
+  "id": 264,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "When does vasospasm typically occur after SAH?",
+  "back": "From about day 4, peaking between days 7 and 10."
+ },
+ {
+  "id": 265,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which conditions are associated with intracranial berry aneurysms?",
+  "back": "Autosomal dominant polycystic kidney disease, vascular Ehlers Danlos syndrome, coarctation of the aorta and fibromuscular dysplasia."
+ },
+ {
+  "id": 266,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What three features determine the Spetzler Martin grade of an AVM?",
+  "back": "Nidus size, eloquent location, and deep venous drainage."
+ },
+ {
+  "id": 267,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is the classic MRI appearance of a cavernous malformation?",
+  "back": "Popcorn lesion with a complete hemosiderin rim dark on T2 and SWI, angiographically occult with no flow voids."
+ },
+ {
+  "id": 268,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is a developmental venous anomaly and how does it appear?",
+  "back": "A benign variant with a caput medusae of small medullary veins converging on a large draining vein. It drains normal brain and should be preserved."
+ },
+ {
+  "id": 269,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which imaging features favour glioblastoma over metastasis?",
+  "back": "A solitary thick irregular enhancing ring with central necrosis, possibly crossing the corpus callosum, rather than multiple lesions at the grey white junction."
+ },
+ {
+  "id": 270,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How does primary CNS lymphoma appear?",
+  "back": "Periventricular, hyperdense on CT, homogeneously enhancing with marked restricted diffusion, and steroid sensitive."
+ },
+ {
+  "id": 271,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which sign favours toxoplasmosis over lymphoma in HIV?",
+  "back": "An eccentric target sign with low perfusion. Lymphoma tends to be single with higher perfusion and subependymal spread."
+ },
+ {
+  "id": 272,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which features indicate a meningioma?",
+  "back": "Broad dural base, dural tail, CSF cleft, hyperostosis, calcification and avid homogeneous enhancement."
+ },
+ {
+  "id": 273,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How does medulloblastoma appear in a child?",
+  "back": "A midline vermian fourth ventricle mass, hyperdense on CT with restricted diffusion and drop metastases."
+ },
+ {
+  "id": 274,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which paediatric tumour is cystic with an enhancing mural nodule in the cerebellum?",
+  "back": "Pilocytic astrocytoma."
+ },
+ {
+  "id": 275,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is the classic lesion orientation in multiple sclerosis?",
+  "back": "Ovoid T2 and FLAIR bright lesions perpendicular to the lateral ventricles, called Dawson fingers."
+ },
+ {
+  "id": 276,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does dissemination in time mean in the 2017 McDonald criteria?",
+  "back": "Simultaneous enhancing and non enhancing lesions, or a new lesion on follow up imaging (McDonald 2017, revised 2024)."
+ },
+ {
+  "id": 277,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which MRI finding distinguishes NMOSD from MS in the cord?",
+  "back": "Longitudinally extensive transverse myelitis spanning three or more vertebral segments, with AQP4 antibodies."
+ },
+ {
+  "id": 278,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What are the features of PML on MRI?",
+  "back": "Subcortical white matter and U fibre lesions with no mass effect and usually no enhancement, in immunosuppressed patients."
+ },
+ {
+  "id": 279,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which areas does herpes simplex encephalitis involve?",
+  "back": "Medial temporal lobes, insula and inferior frontal lobes, usually asymmetric, sparing the basal ganglia."
+ },
+ {
+  "id": 280,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which sign distinguishes an abscess from a necrotic tumour on SWI?",
+  "back": "The dual rim sign supports abscess, which also shows central restricted diffusion and a thinner wall on the ventricular side."
+ },
+ {
+  "id": 281,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does the MRI show in Creutzfeldt Jakob disease?",
+  "back": "Cortical ribboning and basal ganglia restricted diffusion on DWI, with the pulvinar sign in variant CJD."
+ },
+ {
+  "id": 282,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What pattern of atrophy suggests Alzheimer disease?",
+  "back": "Medial temporal and hippocampal atrophy followed by posterior parietal atrophy."
+ },
+ {
+  "id": 283,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Which sign is classic for progressive supranuclear palsy?",
+  "back": "Midbrain atrophy giving the hummingbird or penguin sign on sagittal images."
+ },
+ {
+  "id": 284,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does DAT SPECT show in Parkinson disease?",
+  "back": "Reduced striatal uptake, whereas essential tremor and drug induced parkinsonism are normal."
+ },
+ {
+  "id": 285,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What imaging signs define normal pressure hydrocephalus?",
+  "back": "Ventriculomegaly out of proportion to sulci, callosal angle below 90 degrees, DESH pattern and increased aqueductal flow void."
+ },
+ {
+  "id": 286,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is the typical location and CT density of a colloid cyst?",
+  "back": "Anterosuperior third ventricle at the foramen of Monro, usually hyperdense, causing obstructive hydrocephalus."
+ },
+ {
+  "id": 287,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What are the CT features of an extradural haematoma?",
+  "back": "Biconvex, does not cross sutures, may cross dural reflections, from the middle meningeal artery with an overlying temporoparietal fracture."
+ },
+ {
+  "id": 288,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How does a subdural haematoma differ from an extradural haematoma?",
+  "back": "Crescentic, crosses sutures, limited by dural reflections such as the falx, and varies in density with age."
+ },
+ {
+  "id": 289,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "Where does diffuse axonal injury occur?",
+  "back": "At the grey white junction, corpus callosum especially the splenium, and dorsolateral brainstem, best seen on SWI and DWI."
+ },
+ {
+  "id": 290,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How is a pituitary microadenoma defined and how does it enhance?",
+  "back": "Under 10 mm, and enhances less avidly than the normal gland on dynamic contrast imaging."
+ },
+ {
+  "id": 291,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What does the Knosp classification assess?",
+  "back": "Cavernous sinus invasion by a pituitary macroadenoma, with grade 4 meaning encasement of the intracavernous internal carotid artery."
+ },
+ {
+  "id": 292,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How does a craniopharyngioma appear?",
+  "back": "A suprasellar mass with calcification and cystic components, bimodal in children and adults."
+ },
+ {
+  "id": 293,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What defines Chiari I malformation?",
+  "back": "Cerebellar tonsillar descent of at least 5 mm below the foramen magnum."
+ },
+ {
+  "id": 294,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "How do epidermoid and arachnoid cysts differ on DWI?",
+  "back": "Epidermoid restricts diffusion and does not fully suppress on FLAIR, whereas arachnoid cyst follows CSF with no restriction."
+ },
+ {
+  "id": 295,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Brain Imaging",
+  "front": "What is the ice cream cone sign?",
+  "back": "A vestibular schwannoma with an intracanalicular stalk and cerebellopontine angle component, widening the internal auditory canal."
+ },
+ {
+  "id": 296,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which MRI feature separates cholesteatoma from granulation tissue in the middle ear?",
+  "back": "Cholesteatoma restricts on non-echo-planar diffusion weighted imaging and does not enhance centrally. Granulation tissue enhances and does not restrict."
+ },
+ {
+  "id": 297,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Where does acquired cholesteatoma classically arise, and which ossicular part erodes first?",
+  "back": "It arises in Prussak space (lateral epitympanic recess) and erodes the scutum. The long process of the incus is the ossicular part eroded first."
+ },
+ {
+  "id": 298,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What is the signal pattern of a petrous apex cholesterol granuloma?",
+  "back": "It is expansile and smooth, hyperintense on both T1 and T2. A petrous apex effusion or mucocele is T2 bright but T1 dark."
+ },
+ {
+  "id": 299,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Where is the lucent focus of fenestral otosclerosis?",
+  "back": "Just anterior to the oval window (fissula ante fenestram), causing conductive hearing loss. Retrofenestral disease around the cochlea causes sensorineural loss."
+ },
+ {
+  "id": 300,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How does a glomus jugulare differ from a glomus tympanicum on CT?",
+  "back": "Glomus jugulare expands the jugular foramen and erodes the jugular spine with a permeative margin. A glomus tympanicum sits on the cochlear promontory with the jugular plate intact."
+ },
+ {
+  "id": 301,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What size defines a large vestibular aqueduct?",
+  "back": "More than 1.5 mm at the midpoint. It is associated with incomplete partition type II (Mondini) and sensorineural hearing loss."
+ },
+ {
+  "id": 302,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which cerebellopontine angle mass enlarges the internal auditory canal and forms an ice cream cone shape?",
+  "back": "Vestibular schwannoma. A meningioma is broad based with a dural tail and usually does not enlarge the canal."
+ },
+ {
+  "id": 303,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Why is an Onodi cell reported before sinus surgery?",
+  "back": "It is a posterior ethmoid cell extending lateral or superior to the sphenoid sinus, placing the optic nerve at risk of injury."
+ },
+ {
+  "id": 304,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What is the Chandler classification used for?",
+  "back": "Orbital complications of sinusitis: preseptal cellulitis, orbital cellulitis, subperiosteal abscess, orbital abscess and cavernous sinus thrombosis."
+ },
+ {
+  "id": 305,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What is the black turbinate sign and what does it suggest?",
+  "back": "Loss of mucosal enhancement of a turbinate, indicating acute invasive fungal sinusitis in an immunocompromised or diabetic patient. It is an emergency."
+ },
+ {
+  "id": 306,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How do allergic fungal sinusitis and mycetoma differ?",
+  "back": "Allergic fungal sinusitis expands several sinuses with central hyperattenuating T2 dark material. Mycetoma is usually a single maxillary sinus with a central dense or calcific focus."
+ },
+ {
+  "id": 307,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What are the imaging features of inverted papilloma?",
+  "back": "Arises from the lateral nasal wall near the middle meatus, convoluted cerebriform pattern on contrast MRI, hyperostosis at the attachment. Loss of the pattern suggests squamous cell transformation."
+ },
+ {
+  "id": 308,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which sinonasal tumour affects adolescent males, centres on the sphenopalatine foramen and bows the maxillary sinus posterior wall forward?",
+  "back": "Juvenile nasopharyngeal angiofibroma, with prominent flow voids and pterygopalatine fossa widening."
+ },
+ {
+  "id": 309,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Where does olfactory neuroblastoma sit and what is its typical shape?",
+  "back": "At the cribriform plate, dumbbell shaped through the skull base, often with peritumoral cysts at the intracranial margin."
+ },
+ {
+  "id": 310,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What shape does retinal detachment make, and how does choroidal detachment differ?",
+  "back": "Retinal detachment is V shaped converging at the optic disc. Choroidal detachment is lentiform and does not reach the disc."
+ },
+ {
+  "id": 311,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What is the tram track sign in the orbit?",
+  "back": "Enhancing optic nerve sheath around a non-enhancing nerve, typical of optic nerve sheath meningioma."
+ },
+ {
+  "id": 312,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How do thyroid eye disease and idiopathic orbital inflammation differ in muscle involvement?",
+  "back": "Thyroid eye disease enlarges the muscle bellies and spares the tendons (inferior and medial recti commonest). Idiopathic orbital inflammation involves the tendinous insertions and responds rapidly to steroids."
+ },
+ {
+  "id": 313,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "In which direction do masses of each deep neck space displace the parapharyngeal fat?",
+  "back": "Pharyngeal mucosal: laterally. Masticator: posteriorly. Parotid: medially. Carotid: anteriorly."
+ },
+ {
+  "id": 314,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What is the lyre sign?",
+  "back": "Splaying of the internal and external carotid arteries by a carotid body paraganglioma, which is avidly enhancing with flow voids."
+ },
+ {
+  "id": 315,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How does a retropharyngeal abscess differ from an effusion, and where can it spread?",
+  "back": "An abscess shows a rim enhancing collection, an effusion does not. Infection can pass through the danger space to the posterior mediastinum."
+ },
+ {
+  "id": 316,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which parotid tumour is T2 bright and the commonest?",
+  "back": "Pleomorphic adenoma. Warthin tumour is in older male smokers, often bilateral in the parotid tail, and takes up technetium pertechnetate."
+ },
+ {
+  "id": 317,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which salivary malignancy is commonest, and which spreads along nerves?",
+  "back": "Mucoepidermoid carcinoma is commonest. Adenoid cystic carcinoma characteristically spreads along nerves."
+ },
+ {
+  "id": 318,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How is an ACR TI-RADS nodule scored for composition and echogenicity?",
+  "back": "Composition: cystic or spongiform 0, mixed 1, solid 2. Echogenicity: anechoic 0, iso or hyperechoic 1, hypoechoic 2, very hypoechoic 3."
+ },
+ {
+  "id": 319,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which TI-RADS features score 3 points?",
+  "back": "Very hypoechoic echogenicity, taller than wide shape, extrathyroidal extension, and punctate echogenic foci."
+ },
+ {
+  "id": 320,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which total scores correspond to TR3, TR4 and TR5?",
+  "back": "TR3 is 3 points, TR4 is 4 to 6 points, TR5 is 7 or more. TR1 is 0 and TR2 is 2."
+ },
+ {
+  "id": 321,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What are the FNA and follow up size thresholds for TR3, TR4 and TR5?",
+  "back": "TR3: FNA 2.5 cm, follow up 1.5 cm. TR4: FNA 1.5 cm, follow up 1 cm. TR5: FNA 1 cm, follow up 0.5 cm."
+ },
+ {
+  "id": 322,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which laryngeal findings define T3 and T4a disease?",
+  "back": "T3: paraglottic space invasion with cord fixation or inner cortex thyroid cartilage erosion. T4a: through the outer cortex or into neck soft tissue, thyroid or oesophagus."
+ },
+ {
+  "id": 323,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What nodal appearance is typical of HPV related oropharyngeal carcinoma?",
+  "back": "Large cystic nodes from a small tonsil or base of tongue primary."
+ },
+ {
+  "id": 324,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Where is the primary in nasopharyngeal carcinoma and what is its association?",
+  "back": "Near the fossa of Rosenmuller. It is associated with EBV and spreads to the skull base and retropharyngeal nodes."
+ },
+ {
+  "id": 325,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What are the boundaries of nodal levels II, III and IV?",
+  "back": "II: skull base to lower hyoid. III: hyoid to cricoid. IV: cricoid to clavicle."
+ },
+ {
+  "id": 326,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which cranial nerves lie in the cavernous sinus wall versus within the sinus?",
+  "back": "III, IV, V1 and V2 lie in the lateral wall. VI and the internal carotid artery lie within the sinus."
+ },
+ {
+  "id": 327,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What imaging signs indicate perineural tumour spread?",
+  "back": "Nerve enlargement and enhancement, a widened or eroded foramen, loss of fat in the pterygopalatine fossa, and later denervation change in the supplied muscle."
+ },
+ {
+  "id": 328,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which cord lesion pattern suggests multiple sclerosis rather than NMOSD or transverse myelitis?",
+  "back": "Short segment (under two vertebral bodies), peripheral dorsal or lateral, under half the cord cross section. NMOSD is three or more segments."
+ },
+ {
+  "id": 329,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What does a long central T2 hyperintense cord with dorsal flow voids in an older man suggest?",
+  "back": "A spinal dural arteriovenous fistula, confirmed and located by spinal angiography."
+ },
+ {
+  "id": 330,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which intramedullary tumour shows a cyst with enhancing mural nodule?",
+  "back": "Haemangioblastoma, suggesting von Hippel Lindau disease."
+ },
+ {
+  "id": 331,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How do spinal ependymoma and astrocytoma differ in position?",
+  "back": "Ependymoma is central, often with a haemosiderin cap, in adults. Astrocytoma is eccentric and infiltrative, commoner in children."
+ },
+ {
+  "id": 332,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which intradural extramedullary tumour is thoracic, in women, with a dural tail?",
+  "back": "Meningioma. Nerve sheath tumours are dumbbell shaped and widen the exit foramen."
+ },
+ {
+  "id": 333,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What combined C1 lateral mass overhang suggests transverse ligament rupture in a Jefferson fracture?",
+  "back": "More than 7 mm on the open mouth view."
+ },
+ {
+  "id": 334,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which odontoid fracture type has the highest nonunion rate?",
+  "back": "Type II, at the junction of the dens and the vertebral body."
+ },
+ {
+  "id": 335,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How do flexion and extension teardrop fractures differ?",
+  "back": "Flexion teardrop is unstable, with posterior body displacement and cord injury. Extension teardrop is a small avulsion with anterior longitudinal ligament injury and is usually stable."
+ },
+ {
+  "id": 336,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What anterolisthesis suggests unilateral versus bilateral facet dislocation?",
+  "back": "Unilateral: under 25 percent with a bow tie sign. Bilateral: over 50 percent."
+ },
+ {
+  "id": 337,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "Which findings in Chiari II malformation accompany myelomeningocele?",
+  "back": "Small posterior fossa, beaked tectum, tonsillar and vermian herniation and hydrocephalus."
+ },
+ {
+  "id": 338,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "What conus level and filum thickness suggest a tethered cord beyond three months of age?",
+  "back": "Conus below L2 and a filum thicker than 2 mm."
+ },
+ {
+  "id": 339,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How is carotid stenosis measured by NASCET, and which duplex velocity suggests 70 percent or more?",
+  "back": "One minus narrowest residual lumen over normal distal ICA lumen. Peak systolic velocity over 230 cm/s."
+ },
+ {
+  "id": 340,
+  "domain": "neuroradiology_and_head_and_neck",
+  "chapter": "Head Neck and Spine Imaging",
+  "front": "How does cervical ICA dissection differ from atherosclerosis in location?",
+  "back": "Dissection starts about 2 cm beyond the bulb and spares it, with a crescent T1 hyperintense mural haematoma. Atherosclerosis centres on the bulb."
+ },
+ {
+  "id": 341,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What are the three BI-RADS mass shapes and which is most suspicious?",
+  "back": "Oval, round and irregular. Irregular shape is the most suspicious."
+ },
+ {
+  "id": 342,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which mass margin is most strongly associated with invasive carcinoma?",
+  "back": "Spiculated margin, lines radiating from the mass."
+ },
+ {
+  "id": 343,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What defines a circumscribed margin in BI-RADS?",
+  "back": "The margin is sharply demarcated with an abrupt transition from adjacent tissue, with no microlobulated, indistinct or spiculated portion."
+ },
+ {
+  "id": 344,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "How does a focal asymmetry differ from an asymmetry?",
+  "back": "An asymmetry is seen on one projection only. A focal asymmetry is seen on two projections but lacks the convexity and conspicuity of a mass."
+ },
+ {
+  "id": 345,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What makes an asymmetry a developing asymmetry, and why does it matter?",
+  "back": "It is new, larger or more conspicuous than on prior studies. It is suspicious."
+ },
+ {
+  "id": 346,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Name the typically benign calcification types.",
+  "back": "Skin, vascular, coarse or popcorn, large rod like, round, rim or eggshell, dystrophic, milk of calcium and suture."
+ },
+ {
+  "id": 347,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "How does milk of calcium appear on CC and ML views?",
+  "back": "Round smudges on the craniocaudal view and crescent or meniscus shaped curves on the true lateral view, because it layers dependently in microcysts."
+ },
+ {
+  "id": 348,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "List suspicious calcification morphologies from least to most suspicious.",
+  "back": "Amorphous, coarse heterogeneous, fine pleomorphic, fine linear or fine linear branching."
+ },
+ {
+  "id": 349,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What does fine linear branching calcification imply?",
+  "back": "Calcification filling a duct involved by tumour, classically high grade DCIS with comedonecrosis."
+ },
+ {
+  "id": 350,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which calcification distributions raise the probability of malignancy most?",
+  "back": "Linear and segmental distributions, which suggest deposits in a duct and its branches."
+ },
+ {
+  "id": 351,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What BI-RADS category usually follows grouped amorphous calcifications?",
+  "back": "Category 4B."
+ },
+ {
+  "id": 352,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What is the malignancy likelihood range for each BI-RADS category 3, 4A, 4B, 4C and 5?",
+  "back": "3: 2 percent or less. 4A: more than 2 to 10 percent. 4B: more than 10 to 50 percent. 4C: more than 50 to less than 95 percent. 5: at least 95 percent."
+ },
+ {
+  "id": 353,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What does BI-RADS 6 mean?",
+  "back": "Known biopsy proven malignancy before definitive therapy."
+ },
+ {
+  "id": 354,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which findings may be assigned BI-RADS 3 after full diagnostic work up?",
+  "back": "A non calcified circumscribed solid mass on ultrasound, a stable or decreasing focal asymmetry and solitary grouped punctate calcifications."
+ },
+ {
+  "id": 355,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What is the follow up schedule for a BI-RADS 3 lesion?",
+  "back": "6 months, then 12 and 24 months, downgrading to category 2 after two years of stability."
+ },
+ {
+  "id": 356,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Why does tomosynthesis improve breast screening?",
+  "back": "It reduces tissue overlap, lowers recall rates and increases detection of invasive cancer, especially in dense breasts."
+ },
+ {
+  "id": 357,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "How are BI-RADS breast density categories A to D defined?",
+  "back": "A almost entirely fatty, B scattered fibroglandular, C heterogeneously dense, D extremely dense."
+ },
+ {
+  "id": 358,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which age group does BreastScreen Australia actively invite, and how often?",
+  "back": "Women aged 50 to 74, every two years."
+ },
+ {
+  "id": 359,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Who qualifies for annual screening MRI?",
+  "back": "High risk women such as BRCA1 or BRCA2 carriers, untested first degree relatives of carriers and those with chest irradiation at a young age."
+ },
+ {
+  "id": 360,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What are the features of a simple breast cyst on ultrasound?",
+  "back": "Anechoic, thin imperceptible wall, circumscribed margin and posterior acoustic enhancement. It is category 2."
+ },
+ {
+  "id": 361,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which ultrasound orientation is suspicious for a solid mass?",
+  "back": "Not parallel to the skin, taller than wide."
+ },
+ {
+  "id": 362,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What features favour a fibroadenoma on ultrasound?",
+  "back": "Oval, parallel, circumscribed, mildly hypoechoic solid mass, typically in a young woman."
+ },
+ {
+  "id": 363,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What cortical thickness is normal for an axillary node on ultrasound?",
+  "back": "Less than 3 mm with a fatty hilum."
+ },
+ {
+  "id": 364,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What non mass enhancement pattern is classic for DCIS on MRI?",
+  "back": "Segmental, clumped enhancement following a duct."
+ },
+ {
+  "id": 365,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which MRI finding takes priority when morphology and kinetics conflict?",
+  "back": "Morphology outweighs kinetic curve behaviour."
+ },
+ {
+  "id": 366,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Name three indications for breast MRI.",
+  "back": "Staging in lobular cancer or dense breasts, response to neoadjuvant chemotherapy, high risk screening, equivocal findings, implant integrity, or occult primary with axillary metastasis."
+ },
+ {
+  "id": 367,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "When should a marker clip be placed at biopsy?",
+  "back": "Always, particularly if neoadjuvant chemotherapy is planned, as the lesion may resolve completely."
+ },
+ {
+  "id": 368,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What do the Australian B categories B1 to B5 mean?",
+  "back": "B1 normal or non diagnostic, B2 benign, B3 uncertain malignant potential, B4 suspicious, B5 malignant (5a in situ, 5b invasive)."
+ },
+ {
+  "id": 369,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What is the action for a benign core result from a BI-RADS 5 lesion?",
+  "back": "It is discordant: repeat biopsy or excise."
+ },
+ {
+  "id": 370,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "Which B3 lesion is usually excised because of its upgrade risk to DCIS or invasive cancer?",
+  "back": "Atypical ductal hyperplasia."
+ },
+ {
+  "id": 371,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What is the most reliable MRI sign of intracapsular silicone implant rupture?",
+  "back": "The linguine sign, curvilinear low signal lines within the silicone."
+ },
+ {
+  "id": 372,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "How does extracapsular silicone rupture appear on ultrasound?",
+  "back": "A snowstorm pattern of echogenic noise with posterior shadowing."
+ },
+ {
+  "id": 373,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "How does BIA-ALCL typically present, and how is it confirmed?",
+  "back": "A late periprosthetic fluid collection, usually over a year after surgery; aspirate cytology with CD30 immunostaining."
+ },
+ {
+  "id": 374,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "What is the typical mammographic appearance of gynaecomastia versus male breast cancer?",
+  "back": "Gynaecomastia is a subareolar flame shaped density radiating from the nipple. Cancer is an eccentric, high density, often spiculated mass."
+ },
+ {
+  "id": 375,
+  "domain": "breast",
+  "chapter": "Breast Imaging",
+  "front": "How are axillary nodal levels defined?",
+  "back": "Relative to pectoralis minor: level I lateral, level II behind, level III medial to its medial border."
+ },
+ {
+  "id": 376,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What is the first reliable ultrasound sign of an intrauterine pregnancy?",
+  "back": "A visible yolk sac within the gestational sac, usually from about 5.5 weeks. A sac without a yolk sac may be a pseudosac of an ectopic pregnancy."
+ },
+ {
+  "id": 377,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How does a tubal ectopic differ from a corpus luteum on transvaginal ultrasound?",
+  "back": "A corpus luteum lies within the ovary and moves with it. A tubal ectopic is an adnexal mass with a thick echogenic ring that moves independently of the ovary."
+ },
+ {
+  "id": 378,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What is the most common site of tubal ectopic pregnancy?",
+  "back": "The ampulla of the fallopian tube."
+ },
+ {
+  "id": 379,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Which findings suggest an interstitial ectopic pregnancy?",
+  "back": "An eccentric sac in the fundus with a thin myometrial mantle, commonly under 5 mm, and an interstitial line sign pointing to the sac."
+ },
+ {
+  "id": 380,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Where does a caesarean scar ectopic implant and why does it matter?",
+  "back": "In the scar niche of the lower anterior uterine segment, with thin myometrium toward the bladder. It risks haemorrhage and later placenta accreta spectrum."
+ },
+ {
+  "id": 381,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What crown rump length and heartbeat finding is diagnostic of failed early pregnancy?",
+  "back": "A crown rump length of 7 mm or more with no cardiac activity."
+ },
+ {
+  "id": 382,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What mean sac diameter with no embryo is diagnostic of failed pregnancy?",
+  "back": "A mean sac diameter of 25 mm or more with no embryo."
+ },
+ {
+  "id": 383,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Which early pregnancy findings are suspicious but not diagnostic of failure?",
+  "back": "Crown rump length under 7 mm without a heartbeat, mean sac diameter 16 to 24 mm with no embryo, and an enlarged yolk sac over 7 mm. A repeat scan after 7 to 10 days is advised."
+ },
+ {
+  "id": 384,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What does a markedly vascular myometrial lesion after curettage suggest?",
+  "back": "An acquired arteriovenous malformation, with low resistance high velocity flow. Biopsy or curettage risks severe bleeding."
+ },
+ {
+  "id": 385,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Up to what crown rump length is it used for dating?",
+  "back": "About 84 mm, roughly 14 weeks. After that head circumference is used."
+ },
+ {
+  "id": 386,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "When is the nuchal translucency scan performed and what threshold is used?",
+  "back": "From 11 weeks 0 days to 13 weeks 6 days, with crown rump length 45 to 84 mm. A thickness of 3.5 mm or more prompts further testing."
+ },
+ {
+  "id": 387,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How is fetal growth restriction distinguished from a small for gestational age fetus?",
+  "back": "Small for gestational age is an estimated weight under the 10th centile. Growth restriction needs a small abdominal circumference, weight under the 3rd centile or abnormal Doppler indices."
+ },
+ {
+  "id": 388,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What umbilical artery Doppler sequence indicates worsening placental insufficiency?",
+  "back": "Raised resistance, then absent end diastolic flow, then reversed end diastolic flow."
+ },
+ {
+  "id": 389,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Which middle cerebral artery finding suggests fetal anaemia?",
+  "back": "Peak systolic velocity above 1.5 multiples of the median."
+ },
+ {
+  "id": 390,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How are oligohydramnios and polyhydramnios defined by deepest vertical pocket?",
+  "back": "Oligohydramnios is under 2 cm and polyhydramnios is over 8 cm."
+ },
+ {
+  "id": 391,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How is fetal ventriculomegaly graded by atrial width?",
+  "back": "Mild 10 to 12 mm, moderate 13 to 15 mm, severe above 15 mm."
+ },
+ {
+  "id": 392,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What are the lemon and banana signs?",
+  "back": "Frontal bone scalloping and a cerebellum wrapped around the brainstem with an effaced cisterna magna, both indicating open spina bifida."
+ },
+ {
+  "id": 393,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What distinguishes gastroschisis from omphalocele?",
+  "back": "Gastroschisis is a right paraumbilical defect with free floating bowel and no membrane. Omphalocele is midline with a covering membrane and more often has chromosomal associations."
+ },
+ {
+  "id": 394,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What is the typical ultrasound picture of left congenital diaphragmatic hernia?",
+  "back": "Stomach bubble in the chest, heart displaced to the right and an absent normal stomach in the abdomen."
+ },
+ {
+  "id": 395,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Why can a normal four chamber view miss serious cardiac defects?",
+  "back": "Conotruncal defects such as tetralogy of Fallot and transposition are seen on outflow tract views, not the four chamber view."
+ },
+ {
+  "id": 396,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What defines placenta praevia and a low lying placenta?",
+  "back": "Praevia covers the internal os. Low lying has its edge within 20 mm of the os without covering it."
+ },
+ {
+  "id": 397,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Which ultrasound signs suggest placenta accreta spectrum?",
+  "back": "Loss of the retroplacental clear zone, irregular intraplacental lacunae, myometrium thinned below 1 mm and bridging vessels to the bladder."
+ },
+ {
+  "id": 398,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What does the lambda sign indicate?",
+  "back": "A dichorionic twin pregnancy: chorionic tissue extends as a triangle into the base of the intertwin membrane."
+ },
+ {
+  "id": 399,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What does the T sign indicate?",
+  "back": "A monochorionic diamniotic twin pregnancy, where a thin membrane meets the placenta at a right angle."
+ },
+ {
+  "id": 400,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What is the main risk of monochorionic monoamniotic twins?",
+  "back": "Cord entanglement, because no dividing membrane is present."
+ },
+ {
+  "id": 401,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What are Quintero stage I and stage II twin to twin transfusion?",
+  "back": "Stage I is oligohydramnios in the donor (pocket under 2 cm) with polyhydramnios in the recipient (over 8 cm). Stage II adds a donor bladder that is not visible."
+ },
+ {
+  "id": 402,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Which Quintero stages involve abnormal Doppler, hydrops and demise?",
+  "back": "Stage III abnormal Doppler, stage IV hydrops, stage V demise of one or both twins."
+ },
+ {
+  "id": 403,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How is a septate uterus distinguished from a bicornuate uterus?",
+  "back": "A septate uterus has a convex or flat external fundal contour. A bicornuate uterus has a fundal cleft of more than 1 cm."
+ },
+ {
+  "id": 404,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What is the MRI signal of a fibrous uterine septum?",
+  "back": "Low signal on T2 weighted images, whereas a muscular septum is intermediate like myometrium."
+ },
+ {
+  "id": 405,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What association should be checked when a Mullerian anomaly is found?",
+  "back": "Renal tract anomalies, including renal agenesis, as in OHVIRA (Herlyn Werner Wunderlich) syndrome."
+ },
+ {
+  "id": 406,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What are the MRI features of red degeneration of a fibroid?",
+  "back": "A high T1 signal rim with absent enhancement, typically in pregnancy."
+ },
+ {
+  "id": 407,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "Which features raise concern for leiomyosarcoma over a fibroid?",
+  "back": "Rapid growth, irregular margin, heterogeneous T2 signal with necrosis, restricted diffusion and T1 bright haemorrhage."
+ },
+ {
+  "id": 408,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What junctional zone thickness on MRI suggests adenomyosis?",
+  "back": "More than 12 mm, often with T2 bright foci."
+ },
+ {
+  "id": 409,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How is an endometrioma characterised on MRI and how is it separated from a dermoid?",
+  "back": "T1 bright, stays bright on fat suppression, with T2 shading. A dermoid is also T1 bright but loses signal on fat suppression."
+ },
+ {
+  "id": 410,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What are the five O-RADS US risk categories?",
+  "back": "1 normal premenopausal, 2 almost certainly benign (under 1 percent), 3 low (1 to under 10), 4 intermediate (10 to under 50), 5 high (50 percent or more)."
+ },
+ {
+  "id": 411,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What is the key Doppler caveat in ovarian torsion?",
+  "back": "Normal arterial and venous flow does not exclude torsion because of the dual ovarian and uterine blood supply. The whirlpool sign is highly specific."
+ },
+ {
+  "id": 412,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "What does an intact low signal cervical stromal ring on T2 MRI imply?",
+  "back": "It excludes parametrial invasion with a very high negative predictive value."
+ },
+ {
+  "id": 413,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How is FIGO 2018 stage IB subdivided by tumour size?",
+  "back": "IB1 under 2 cm, IB2 2 to under 4 cm, IB3 4 cm or more."
+ },
+ {
+  "id": 414,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How is FIGO 2009 endometrial cancer stage I divided?",
+  "back": "IA is confined to the endometrium or invades under half the myometrium. IB invades half or more."
+ },
+ {
+  "id": 415,
+  "domain": "obstetrics_and_gynaecology",
+  "chapter": "Obstetric and Gynaecological Imaging",
+  "front": "How do complete and partial hydatidiform moles differ on ultrasound?",
+  "back": "Complete mole: snowstorm mass, no fetus, theca lutein cysts, very high hCG. Partial mole: triploid, thickened cystic placenta with an abnormal fetus or embryo."
+ },
+ {
+  "id": 416,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the diagnostic sign of necrotising enterocolitis on an abdominal radiograph?",
+  "back": "Pneumatosis intestinalis, bubbly or linear lucency in the bowel wall. Portal venous gas indicates more severe disease and pneumoperitoneum indicates perforation."
+ },
+ {
+  "id": 417,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "How does transient tachypnoea of the newborn differ from respiratory distress syndrome on a chest film?",
+  "back": "Transient tachypnoea shows normal or hyperinflated lungs with perihilar streaking and fissural fluid, and clears in 48 to 72 hours. Respiratory distress syndrome shows low volumes and fine granular opacity with air bronchograms."
+ },
+ {
+  "id": 418,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which lung pattern and complication characterise meconium aspiration?",
+  "back": "Hyperinflation with patchy coarse opacities in a term or post term infant. Pneumothorax is a frequent complication."
+ },
+ {
+  "id": 419,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What are the typical findings of a left congenital diaphragmatic hernia on a neonatal chest film?",
+  "back": "Bowel loops in the left hemithorax, rightward mediastinal shift and a paucity of abdominal gas. Pulmonary hypoplasia determines outcome."
+ },
+ {
+  "id": 420,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Where should the tip of an umbilical venous catheter lie?",
+  "back": "At the junction of the inferior vena cava and right atrium. An umbilical arterial catheter lies high at T6 to T10 or low at L3 to L4."
+ },
+ {
+  "id": 421,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What does a double bubble sign indicate and what is it associated with?",
+  "back": "Duodenal atresia, with gas in the stomach and duodenal cap and no distal gas. It is associated with trisomy 21 and annular pancreas."
+ },
+ {
+  "id": 422,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What distinguishes meconium ileus on imaging and what is the underlying disease?",
+  "back": "Dilated loops with a bubbly ground glass appearance in the right lower quadrant and a microcolon on contrast enema. The underlying disease is cystic fibrosis."
+ },
+ {
+  "id": 423,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which view best shows free gas in a sick neonate with suspected perforation?",
+  "back": "A cross table lateral or left lateral decubitus film, where free gas sits over the liver edge."
+ },
+ {
+  "id": 424,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What are the ultrasound criteria for hypertrophic pyloric stenosis?",
+  "back": "Pyloric muscle thickness of 3 mm or more and canal length of about 15 to 17 mm or more, with a target sign on transverse view."
+ },
+ {
+  "id": 425,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What biochemical disturbance follows prolonged vomiting from pyloric stenosis?",
+  "back": "Hypochloraemic, hypokalaemic metabolic alkalosis."
+ },
+ {
+  "id": 426,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "In which age group and sex is pyloric stenosis most typical?",
+  "back": "Infants aged 2 to 8 weeks, more often firstborn boys, with projectile non bilious vomiting."
+ },
+ {
+  "id": 427,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "A baby has bilious vomiting. Which test is required even if the plain film is normal?",
+  "back": "An upper gastrointestinal contrast study to look for malrotation and midgut volvulus, because a normal radiograph does not exclude them."
+ },
+ {
+  "id": 428,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Where does the normal duodenojejunal flexure lie on a frontal contrast study?",
+  "back": "To the left of the left pedicle of the vertebral body, at the level of the duodenal bulb. In malrotation it lies low or to the right."
+ },
+ {
+  "id": 429,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the whirlpool sign on ultrasound?",
+  "back": "The superior mesenteric vein winding around the superior mesenteric artery, indicating midgut volvulus. A normal scan does not exclude malrotation."
+ },
+ {
+  "id": 430,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What are the ultrasound signs of intussusception?",
+  "back": "The target or doughnut sign on transverse view and the pseudokidney sign on longitudinal view."
+ },
+ {
+  "id": 431,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "When should a lead point be suspected in intussusception?",
+  "back": "In children older than 3 years and in small bowel intussusception. Examples are Meckel diverticulum, polyp, lymphoma and Henoch Schonlein purpura haematoma."
+ },
+ {
+  "id": 432,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What are the contraindications to enema reduction of intussusception?",
+  "back": "Perforation and peritonitis."
+ },
+ {
+  "id": 433,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the pathological basis of Hirschsprung disease?",
+  "back": "Absent ganglion cells in the distal bowel, producing a narrow aganglionic segment with a transition zone and proximal dilatation."
+ },
+ {
+  "id": 434,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What does the rectosigmoid index show in Hirschsprung disease?",
+  "back": "The ratio of rectal to sigmoid diameter, normally above 1, is reversed. A delayed film at 24 hours shows retained contrast."
+ },
+ {
+  "id": 435,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the thymic sail sign and why does it matter?",
+  "back": "The right thymic lobe elevated by the horizontal fissure in an infant. It is normal, does not displace the airway and should not be mistaken for a mediastinal mass."
+ },
+ {
+  "id": 436,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What chest radiograph finding suggests an inhaled foreign body in a toddler?",
+  "back": "Unilateral air trapping: one hyperinflated lung that does not deflate on expiration or decubitus views, with mediastinal shift away on expiration."
+ },
+ {
+  "id": 437,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What are the football sign and Rigler sign?",
+  "back": "Signs of large volume pneumoperitoneum: an oval lucency over the abdomen (football) and both sides of the bowel wall outlined by gas (Rigler)."
+ },
+ {
+  "id": 438,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which barium findings characterise hypertrophic pyloric stenosis?",
+  "back": "The string sign, double track sign and shoulder sign. Ultrasound is the test of choice and shows the target and nipple signs."
+ },
+ {
+  "id": 439,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the most common cause of significant neonatal hydronephrosis?",
+  "back": "Pelviureteric junction obstruction, with dilated pelvis and calyces and a normal ureter."
+ },
+ {
+  "id": 440,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which ultrasound and contrast findings define posterior urethral valves?",
+  "back": "A thick walled bladder with bilateral hydroureteronephrosis and a dilated posterior urethra. The micturating cystourethrogram shows an elongated posterior urethra."
+ },
+ {
+  "id": 441,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "How is grade V vesicoureteric reflux described?",
+  "back": "Gross dilatation with tortuous ureters, loss of papillary impressions and intrarenal reflux on the micturating cystourethrogram."
+ },
+ {
+  "id": 442,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which nuclear medicine test detects renal cortical scarring in children?",
+  "back": "Tc99m DMSA, performed some months after infection to avoid acute changes."
+ },
+ {
+  "id": 443,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "How can Wilms tumour be distinguished from neuroblastoma on cross sectional imaging?",
+  "back": "Wilms tumour arises from the kidney with a claw sign and displaces vessels. Neuroblastoma is often calcified, encases vessels, may cross the midline and takes up MIBG."
+ },
+ {
+  "id": 444,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What must a Wilms tumour report comment on beyond the mass itself?",
+  "back": "Renal vein and inferior vena cava extension, contralateral disease and lung metastases."
+ },
+ {
+  "id": 445,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the Graf alpha angle threshold for a mature infant hip?",
+  "back": "60 degrees or more. Angles below 43 degrees indicate a decentred hip."
+ },
+ {
+  "id": 446,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "How does slipped capital femoral epiphysis appear on imaging?",
+  "back": "Widened physis, posterior and medial slip of the epiphysis, and Klein line failing to intersect the epiphysis. The frog leg lateral view shows it best."
+ },
+ {
+  "id": 447,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the crescent sign in Perthes disease?",
+  "back": "A subchondral fracture line in the femoral epiphysis, marking the stage before fragmentation."
+ },
+ {
+  "id": 448,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What radiographic features indicate rickets?",
+  "back": "Widened physes with cupped, frayed metaphyses, most obvious at the wrist and knee, with poorly mineralised epiphyses."
+ },
+ {
+  "id": 449,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is a toddler fracture?",
+  "back": "An oblique or spiral tibial shaft fracture in a child learning to walk, which may be seen only on an oblique view."
+ },
+ {
+  "id": 450,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which fractures have high specificity for non accidental injury?",
+  "back": "Classic metaphyseal lesions, posterior rib fractures, scapular, sternal and spinous process fractures, and multiple fractures of different ages."
+ },
+ {
+  "id": 451,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Why is a skeletal survey repeated about two weeks later in a child under two?",
+  "back": "To detect healing injuries and fractures that were occult initially."
+ },
+ {
+  "id": 452,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "How is germinal matrix haemorrhage graded on cranial ultrasound?",
+  "back": "Papile grades I to IV: matrix only, intraventricular without dilatation, with ventricular dilatation, then intraparenchymal haemorrhage."
+ },
+ {
+  "id": 453,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "Which childhood posterior fossa tumour is hyperdense on CT, arises from the vermis and spreads via cerebrospinal fluid?",
+  "back": "Medulloblastoma, which shows restricted diffusion and needs whole spine imaging."
+ },
+ {
+  "id": 454,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What is the typical appearance of cerebellar pilocytic astrocytoma?",
+  "back": "A cystic mass with an enhancing mural nodule in a cerebellar hemisphere, without restricted diffusion."
+ },
+ {
+  "id": 455,
+  "domain": "paediatrics",
+  "chapter": "Paediatric Imaging",
+  "front": "What are the key approaches to reducing CT dose in children?",
+  "back": "Justify the test, use size based protocols with lower tube current and voltage, limit scan range, avoid multiphase scans and use iterative reconstruction."
+ },
+ {
+  "id": 456,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which agents are used for permanent distal embolisation in fibroids and prostate artery embolisation?",
+  "back": "Polyvinyl alcohol particles and calibrated microspheres reach the arteriolar bed and give a permanent effect."
+ },
+ {
+  "id": 457,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which embolic agent is temporary and suits trauma and postpartum haemorrhage?",
+  "back": "Gelatin sponge, which lasts days to weeks."
+ },
+ {
+  "id": 458,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the dangerous complication to exclude before bronchial artery embolisation?",
+  "back": "Spinal cord infarction from a radiculomedullary branch supplying the anterior spinal artery; look for the anterior spinal blush first."
+ },
+ {
+  "id": 459,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the usual source of massive haemoptysis treated by embolisation?",
+  "back": "The bronchial arteries."
+ },
+ {
+  "id": 460,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is post-embolisation syndrome?",
+  "back": "Pain, fever and malaise that settle within days. It is expected and does not indicate infection."
+ },
+ {
+  "id": 461,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which route does a TIPS usually take?",
+  "back": "From the right hepatic vein to the right portal vein through the liver, using a covered stent."
+ },
+ {
+  "id": 462,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What are the main indications for TIPS?",
+  "back": "Variceal bleeding refractory to endoscopic and medical therapy, and refractory ascites."
+ },
+ {
+  "id": 463,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the main complication of TIPS and why?",
+  "back": "Hepatic encephalopathy, because portal blood bypasses the liver."
+ },
+ {
+  "id": 464,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Name contraindications to TIPS.",
+  "back": "Right heart failure, severe pulmonary hypertension, uncontrolled sepsis and unrelieved biliary obstruction; polycystic liver is relative."
+ },
+ {
+  "id": 465,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What Doppler finding suggests TIPS dysfunction?",
+  "back": "Low or absent stent flow, loss of the high shunt velocity and return of slow or hepatofugal portal flow."
+ },
+ {
+  "id": 466,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the correct first step for an infected obstructed kidney?",
+  "back": "Percutaneous nephrostomy to decompress the system, with stone treatment delayed until sepsis settles."
+ },
+ {
+  "id": 467,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "When is the Seldinger technique preferred over trocar drainage?",
+  "back": "Seldinger places the catheter over a wire and suits deeper or smaller collections; trocar suits large superficial collections."
+ },
+ {
+  "id": 468,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What bleeding thresholds are used for high-risk percutaneous procedures?",
+  "back": "Roughly INR 1.5 to 1.8 or lower and platelets above about 50 x 10^9 per litre, subject to local protocol."
+ },
+ {
+  "id": 469,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the commonest complication of CT-guided lung biopsy?",
+  "back": "Pneumothorax, more likely with emphysema, a deep lesion and a long needle path."
+ },
+ {
+  "id": 470,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the heat sink effect?",
+  "back": "Flowing blood in an adjacent vessel carries heat away during radiofrequency ablation, leaving a viable rim of tumour."
+ },
+ {
+  "id": 471,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which ablation method produces an ice ball visible on CT and MRI?",
+  "back": "Cryoablation."
+ },
+ {
+  "id": 472,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What size of hepatocellular carcinoma is the best target for curative ablation?",
+  "back": "A solitary lesion up to about 3 cm."
+ },
+ {
+  "id": 473,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "How do you separate benign hyperaemia from residual tumour after ablation?",
+  "back": "Nodular or crescentic enhancement at the margin is residual tumour; a thin uniform smooth rim in the first month is benign."
+ },
+ {
+  "id": 474,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the principal indication for an IVC filter?",
+  "back": "Acute proximal DVT or pulmonary embolism when anticoagulation is contraindicated or has failed."
+ },
+ {
+  "id": 475,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Where is an IVC filter usually placed, and when higher?",
+  "back": "Infrarenal in most patients; suprarenal if thrombus extends to the renal veins or in pregnancy."
+ },
+ {
+  "id": 476,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "List complications of IVC filters.",
+  "back": "Migration, strut fracture and embolisation, caval perforation, caval thrombosis and tilting that hinders retrieval."
+ },
+ {
+  "id": 477,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is a type I endoleak?",
+  "back": "A leak at the proximal or distal graft attachment site; high pressure, rupture risk, needs prompt treatment."
+ },
+ {
+  "id": 478,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is a type II endoleak and how is it managed?",
+  "back": "Retrograde flow from a lumbar artery or inferior mesenteric artery. The commonest type; observe unless the sac enlarges, then embolise."
+ },
+ {
+  "id": 479,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is a type III endoleak?",
+  "back": "A leak through a graft defect or between overlapping graft components; high pressure and needs prompt treatment."
+ },
+ {
+  "id": 480,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is a type IV endoleak?",
+  "back": "Leak through porous graft fabric seen early after placement; self-limiting."
+ },
+ {
+  "id": 481,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is endotension (type V)?",
+  "back": "Sac enlargement with no demonstrable leak on imaging."
+ },
+ {
+  "id": 482,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which imaging phase best separates type I from type II endoleak?",
+  "back": "Type I appears in the arterial phase near the graft ends; type II appears on the delayed phase from a branch vessel."
+ },
+ {
+  "id": 483,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What ankle brachial index indicates peripheral arterial disease, and when is it unreliable?",
+  "back": "Below 0.9 indicates disease; above 1.3 means calcified incompressible vessels, so use toe pressure or waveforms."
+ },
+ {
+  "id": 484,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What peak systolic velocity ratio suggests a 50 percent or greater stenosis on duplex?",
+  "back": "A ratio above 2; above 4 suggests 75 percent or more."
+ },
+ {
+  "id": 485,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is May-Thurner syndrome?",
+  "back": "Compression of the left common iliac vein by the right common iliac artery, causing left-sided iliofemoral DVT."
+ },
+ {
+  "id": 486,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the first-line treatment of anaphylaxis to contrast?",
+  "back": "Intramuscular adrenaline, 0.5 mg of 1 in 1000 in an adult, with airway support, oxygen and fluids."
+ },
+ {
+  "id": 487,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Who carries the highest risk of contrast-associated kidney injury?",
+  "back": "Patients with eGFR below about 30, diabetes, dehydration or intra-arterial administration."
+ },
+ {
+  "id": 488,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which gadolinium agents are preferred when eGFR is below 30?",
+  "back": "Group II agents, mostly macrocyclic, which carry the lowest risk of nephrogenic systemic fibrosis."
+ },
+ {
+  "id": 489,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Where does gadolinium deposit in the brain?",
+  "back": "The dentate nucleus and globus pallidus, mostly after repeated linear agent exposure, with no established harm."
+ },
+ {
+  "id": 490,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the occupational whole-body dose limit?",
+  "back": "20 mSv per year averaged over five years, with no single year above 50 mSv."
+ },
+ {
+  "id": 491,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Name the three principles of radiation protection.",
+  "back": "Justification, optimisation (as low as reasonably achievable) and dose limitation."
+ },
+ {
+  "id": 492,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "At what dose does transient skin erythema occur?",
+  "back": "About 2 Gy, with epilation at about 3 Gy; these are deterministic effects."
+ },
+ {
+  "id": 493,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which optic and brain tumours characterise NF1 and NF2?",
+  "back": "NF1: optic pathway glioma and neurofibromas. NF2: bilateral vestibular schwannomas, meningiomas and ependymomas."
+ },
+ {
+  "id": 494,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which tuberous sclerosis findings occur in the kidney, heart and brain?",
+  "back": "Renal angiomyolipomas, infantile cardiac rhabdomyomas, and cortical tubers with subependymal nodules or giant cell astrocytoma."
+ },
+ {
+  "id": 495,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What are the features of Von Hippel-Lindau disease?",
+  "back": "Cerebellar and retinal haemangioblastomas, clear cell renal carcinoma, phaeochromocytoma and pancreatic cysts or neuroendocrine tumours."
+ },
+ {
+  "id": 496,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What is the sarcoidosis 1-2-3 sign?",
+  "back": "Bilateral hilar plus right paratracheal lymphadenopathy, symmetrical in distribution."
+ },
+ {
+  "id": 497,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What are the Deauville scores 1 to 5?",
+  "back": "1 no uptake, 2 at or below mediastinum, 3 above mediastinum up to liver, 4 moderately above liver, 5 markedly above liver or new lesions."
+ },
+ {
+  "id": 498,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "What imaging appearance suggests autoimmune pancreatitis rather than pancreatic cancer?",
+  "back": "A diffusely enlarged sausage-shaped gland with a delayed-enhancing capsule-like rim that responds to steroids, with raised serum IgG4."
+ },
+ {
+  "id": 499,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Which vasculitis causes coronary aneurysms in children and which causes renal microaneurysms?",
+  "back": "Kawasaki disease causes coronary aneurysms; polyarteritis nodosa causes renal and mesenteric microaneurysms."
+ },
+ {
+  "id": 500,
+  "domain": "interventional_and_multisystem",
+  "chapter": "Interventional Radiology and Multisystem Conditions",
+  "front": "Name common causes of false-positive and false-negative FDG PET-CT.",
+  "back": "False positives: infection, sarcoidosis, recent treatment. False negatives: mucinous or low-grade tumours, lesions under about 8 mm, hyperglycaemia."
+ }
+]

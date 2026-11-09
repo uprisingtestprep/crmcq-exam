@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Case Reporting Practice</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Avenir Next","Segoe UI",system-ui,sans-serif;background:#F4F7FB;color:#1C2A3F;line-height:1.5}
+header{background:#1B3A6B;color:#fff;padding:.9rem 1rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}
+header h1{font-size:1.05rem}#timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:1.1rem}
+main{max-width:860px;margin:0 auto;padding:1rem}
+.card{background:#fff;border:1px solid #DDE6F2;border-radius:10px;padding:1rem;margin-bottom:1rem}
+button{font:inherit;cursor:pointer;border-radius:8px;border:1px solid #1B3A6B;background:#fff;color:#1B3A6B;padding:.55rem .9rem;font-weight:600}
+button.primary{background:#1B3A6B;color:#fff}button:disabled{opacity:.45;cursor:default}
+input[type=password],input[type=text]{font:inherit;padding:.55rem;border:1px solid #B7C6DC;border-radius:8px;width:100%;max-width:280px}
+textarea{width:100%;min-height:170px;font:inherit;padding:.6rem;border:1px solid #B7C6DC;border-radius:8px;resize:vertical}
+.grid{display:flex;flex-wrap:wrap;gap:.35rem;margin:.6rem 0}
+.grid button{padding:.3rem .55rem;font-size:.82rem;min-width:2.3rem}
+.grid button.done{background:#DFF0E3;border-color:#5FA06B}.grid button.cur{background:#1B3A6B;color:#fff}
+.tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.04em;text-transform:uppercase;background:#E6EEF9;color:#1B3A6B;border-radius:6px;padding:.1rem .45rem;margin-right:.4rem}
+h2{font-size:1.05rem;color:#1B3A6B;margin-bottom:.4rem}h4{font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:#1B3A6B;margin:.7rem 0 .2rem}
+ul{padding-left:1.2rem}.note{font-size:.84rem;color:#4A5B73}.row{display:flex;gap:.6rem;flex-wrap:wrap;margin-top:.7rem}
+label.m{display:flex;gap:.5rem;align-items:flex-start;margin:.25rem 0}
+[hidden]{display:none!important}
+</style></head><body>
+<header><h1>Case Reporting Practice</h1><div id="timer" hidden></div></header>
+<main>
+<section id="gate" class="card"><h2>Enter your access code</h2>
+<p class="note" style="margin-bottom:.6rem">The code is printed in your book beside the simulator QR code.</p>
+<input id="code" type="password" placeholder="Access code" autocomplete="off"> <button class="primary" id="go">Continue</button>
+<p id="gerr" class="note" style="color:#B3261E" hidden>That code is not right. Check it and try again.</p></section>
+<section id="menu" class="card" hidden><h2>Choose a practice mode</h2>
+<p class="note">The real paper has 35 cases in 3 hours (20 short, 10 medium, 5 long) for 180 marks. Each case here gives the history and an examiner's written description of the images, because this tool cannot show real CT or MRI series. Write your report, then reveal the model report and mark yourself against the template. Your marking is a self-assessment: no pass mark is published for the real paper, and results are shown against a practice benchmark of 62%.</p>
+<div class="row"><button class="primary" data-mode="s1">Paper 1: timed, 35 cases, 3 hours</button><button class="primary" data-mode="s2">Paper 2: timed, 35 cases, 3 hours</button>
+<button data-mode="free">Browse all 70 cases, no timer</button></div></section>
+<section id="exam" hidden>
+<div class="card"><div id="grid" class="grid"></div><p class="note" id="progress"></p></div>
+<div class="card" id="case"></div></section>
+<section id="done" class="card" hidden></section>
+</main>
+<script>
+const CODE="CRMCQ9000",KEY="crmcq_cases_v1";let cases=[],list=[],cur=0,mode="",endAt=0,tick=null;
+let S={};try{S=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){S={}}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}}
+const $=id=>document.getElementById(id);
+function esc(s){return String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+function vals(v){return Array.isArray(v)?"<ul>"+v.map(x=>"<li>"+esc(x)+"</li>").join("")+"</ul>":"<p>"+esc(v)+"</p>"}
+fetch("cases.json").then(r=>r.json()).then(d=>{cases=d});
+function unlock(){if($("code").value.trim().toUpperCase()===CODE){S.ok=1;save();$("gate").hidden=true;$("menu").hidden=false}else $("gerr").hidden=false}
+$("go").onclick=unlock;$("code").addEventListener("keydown",e=>{if(e.key==="Enter")unlock()});
+if(S.ok){$("gate").hidden=true;$("menu").hidden=false}
+document.querySelectorAll("[data-mode]").forEach(b=>b.onclick=()=>start(b.dataset.mode));
+function start(m){mode=m;list=m==="free"?cases.slice():cases.filter(c=>c.sitting===(m==="s1"?1:2));cur=0;
+ S.runs=S.runs||{};S.runs[m]=S.runs[m]||{};$("menu").hidden=true;$("exam").hidden=false;
+ if(m!=="free"){const r=S.runs[m];if(!r.end)r.end=Date.now()+180*60*1000;endAt=r.end;save();$("timer").hidden=false;tick=setInterval(clock,500);clock()}
+ draw()}
+function clock(){const left=Math.max(0,endAt-Date.now());const h=Math.floor(left/3600000),m=Math.floor(left%3600000/60000),s=Math.floor(left%60000/1000);
+ $("timer").textContent=`${h}:${String(m).padStart(2,"0")}:${String(s).padStart(2,"0")}`;if(left<=0){clearInterval(tick);finish()}}
+function rec(c){S.runs[mode]=S.runs[mode]||{};const r=S.runs[mode];r.cases=r.cases||{};return r.cases[c.id]=r.cases[c.id]||{text:"",marks:{},shown:false}}
+function draw(){const c=list[cur],r=rec(c);
+ $("grid").innerHTML=list.map((x,i)=>`<button class="${i===cur?"cur":(rec(x).text||rec(x).shown?"done":"")}" data-i="${i}">${i+1}</button>`).join("");
+ document.querySelectorAll("#grid button").forEach(b=>b.onclick=()=>{cur=+b.dataset.i;draw()});
+ const answered=list.filter(x=>rec(x).text.trim()).length;$("progress").textContent=`Case ${cur+1} of ${list.length}. Reports started: ${answered}.`;
+ let h=`<h2><span class="tag">${c.length}</span><span class="tag">${c.marks} marks</span>Case ${c.id}</h2><h4>History</h4><p>${esc(c.history)}</p><h4>Imaging (examiner's description)</h4><p>${esc(c.imaging)}</p><h4>Your report</h4>
+ <textarea id="rep" placeholder="${c.length==="short"?"Give the most likely diagnosis.":"Write your findings, diagnosis, differential, investigation and management as the case requires."}">${esc(r.text)}</textarea>
+ <div class="row"><button id="prev" ${cur===0?"disabled":""}>Previous</button><button id="next" ${cur===list.length-1?"disabled":""}>Next</button><button class="primary" id="rev">${r.shown?"Hide":"Reveal"} model report</button>`+(mode!=="free"?`<button id="fin">Finish and score</button>`:"")+`</div>`;
+ if(r.shown){const mr=typeof c.model_report==="object"&&!Array.isArray(c.model_report)?c.model_report:{diagnosis:c.model_report};
+  const L={findings:"Findings",diagnosis:"Diagnosis",differential:"Differential diagnosis",investigation_management:"Further investigation and management"};
+  h+=`<div style="margin-top:1rem;border-top:1px solid #DDE6F2;padding-top:.5rem">`;
+  for(const k of ["findings","diagnosis","differential","investigation_management"])if(mr[k])h+=`<h4>${L[k]}</h4>`+vals(mr[k]);
+  if(c.acceptable_diagnoses&&c.acceptable_diagnoses.length)h+=`<h4>Also acceptable for the diagnosis mark</h4>`+vals(c.acceptable_diagnoses);
+  h+=`<h4>Mark yourself against the template</h4>`+c.marking_template.map((m,i)=>`<label class="m"><input type="checkbox" data-m="${i}" ${r.marks[i]?"checked":""}><span>${esc(m.item)} <b>(${m.marks})</b></span></label>`).join("");
+  if(c.common_errors&&c.common_errors.length)h+=`<h4>Common candidate errors</h4>`+vals(c.common_errors);h+=`</div>`}
+ $("case").innerHTML=h;
+ $("rep").oninput=e=>{r.text=e.target.value;save()};
+ $("prev").onclick=()=>{cur--;draw()};$("next").onclick=()=>{cur++;draw()};
+ $("rev").onclick=()=>{r.shown=!r.shown;save();draw()};
+ document.querySelectorAll("[data-m]").forEach(cb=>cb.onchange=()=>{r.marks[cb.dataset.m]=cb.checked;save()});
+ if($("fin"))$("fin").onclick=()=>{const un=list.filter(x=>!rec(x).shown).length;if(!un||confirm(`${un} case(s) have no model report revealed, so they will score zero. Finish now?`))finish()}}
+function finish(){clearInterval(tick);let got=0,tot=0;const per={short:[0,0],medium:[0,0],long:[0,0]};
+ for(const c of list){const r=rec(c);tot+=c.marks;let s=0;c.marking_template.forEach((m,i)=>{if(r.marks[i])s+=m.marks});s=Math.min(s,c.marks);got+=s;per[c.length][0]+=s;per[c.length][1]+=c.marks}
+ const pct=Math.round(100*got/tot);const above=pct>=62;
+ $("exam").hidden=true;$("timer").hidden=true;$("done").hidden=false;
+ $("done").innerHTML=`<h2>Your self-marked score</h2><p style="font-size:1.4rem;font-weight:700;margin:.4rem 0">${got % 1 ? got.toFixed(1) : got} / ${tot} (${pct}%)</p>
+ <p><b>${above?"ABOVE":"BELOW"} PRACTICE BENCHMARK</b> of 62%. RANZCR sets the real cut score for each sitting by standard setting and publishes no fixed percentage; recent cut scores for this paper were about 59 to 67%. Your marks are self-assessed, so mark honestly against the template.</p>
+ <ul>${Object.entries(per).filter(([k,v])=>v[1]).map(([k,v])=>`<li>${k}: ${v[0]} / ${v[1]}</li>`).join("")}</ul>
+ <div class="row"><button class="primary" id="again">Back to menu</button></div>`;
+ $("again").onclick=()=>{if(mode!=="free"){delete S.runs[mode];save()}$("done").hidden=true;$("menu").hidden=false}}
+</script></body></html>
